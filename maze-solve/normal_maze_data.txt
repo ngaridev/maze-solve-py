@@ -1,0 +1,3818 @@
+Starting operation on normal.png
+##############################
+
+
+Start point : [0, 3]
+End point : [40, 31]
+Current position : [0, 3]
+Path Array : [[0, 3]]
+
+Final point : [40, 31]	:	[0, 3]
+Current position : [1, 3]
+Path Array : [[0, 3], [1, 3]]
+
+Final point : [40, 31]	:	[1, 3]
+Current position : [1, 4]
+Path Array : [[0, 3], [1, 3], [1, 4]]
+
+Final point : [40, 31]	:	[1, 4]
+Current position : [1, 5]
+Path Array : [[0, 3], [1, 3], [1, 4], [1, 5]]
+
+Final point : [40, 31]	:	[1, 5]
+Current position : [1, 6]
+Path Array : [[0, 3], [1, 3], [1, 4], [1, 5], [1, 6]]
+
+Final point : [40, 31]	:	[1, 6]
+Current position : [1, 7]
+Path Array : [[0, 3], [1, 3], [1, 4], [1, 5], [1, 6], [1, 7]]
+
+Final point : [40, 31]	:	[1, 7]
+Current position : [1, 8]
+Path Array : [[0, 3], [1, 3], [1, 4], [1, 5], [1, 6], [1, 7], [1, 8]]
+
+Final point : [40, 31]	:	[1, 8]
+Current position : [1, 9]
+Path Array : [[0, 3], [1, 3], [1, 4], [1, 5], [1, 6], [1, 7], [1, 8], [1, 9]]
+
+Final point : [40, 31]	:	[1, 9]
+##############################Split point reached##############################
+
+Current position : [1, 10]
+Path Array : [[1, 9], [1, 10]]
+
+Final point : [40, 31]	:	[1, 10]
+Current position : [2, 9]
+Path Array : [[1, 9], [2, 9]]
+
+Final point : [40, 31]	:	[2, 9]
+Current position : [1, 11]
+Path Array : [[1, 9], [1, 10], [1, 11]]
+
+Final point : [40, 31]	:	[1, 11]
+Current position : [3, 9]
+Path Array : [[1, 9], [2, 9], [3, 9]]
+
+Final point : [40, 31]	:	[3, 9]
+##############################Split point reached##############################
+
+Current position : [4, 9]
+Path Array : [[3, 9], [4, 9]]
+
+Final point : [40, 31]	:	[4, 9]
+Current position : [3, 10]
+Path Array : [[3, 9], [3, 10]]
+
+Final point : [40, 31]	:	[3, 10]
+Current position : [3, 8]
+Path Array : [[3, 9], [3, 8]]
+
+Final point : [40, 31]	:	[3, 8]
+Current position : [1, 12]
+Path Array : [[1, 9], [1, 10], [1, 11], [1, 12]]
+
+Final point : [40, 31]	:	[1, 12]
+Current position : [5, 9]
+Path Array : [[3, 9], [4, 9], [5, 9]]
+
+Final point : [40, 31]	:	[5, 9]
+Current position : [3, 11]
+Path Array : [[3, 9], [3, 10], [3, 11]]
+
+Final point : [40, 31]	:	[3, 11]
+##############################Dead point reached##############################
+
+Current position : [1, 13]
+Path Array : [[1, 9], [1, 10], [1, 11], [1, 12], [1, 13]]
+
+Final point : [40, 31]	:	[1, 13]
+##############################Split point reached##############################
+
+Current position : [3, 7]
+Path Array : [[3, 9], [3, 8], [3, 7]]
+
+Final point : [40, 31]	:	[3, 7]
+Current position : [2, 13]
+Path Array : [[1, 13], [2, 13]]
+
+Final point : [40, 31]	:	[2, 13]
+Current position : [1, 14]
+Path Array : [[1, 13], [1, 14]]
+
+Final point : [40, 31]	:	[1, 14]
+Current position : [6, 9]
+Path Array : [[3, 9], [4, 9], [5, 9], [6, 9]]
+
+Final point : [40, 31]	:	[6, 9]
+Current position : [3, 6]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6]]
+
+Final point : [40, 31]	:	[3, 6]
+Current position : [3, 13]
+Path Array : [[1, 13], [2, 13], [3, 13]]
+
+Final point : [40, 31]	:	[3, 13]
+##############################Dead point reached##############################
+
+Current position : [7, 9]
+Path Array : [[3, 9], [4, 9], [5, 9], [6, 9], [7, 9]]
+
+Final point : [40, 31]	:	[7, 9]
+Current position : [3, 5]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6], [3, 5]]
+
+Final point : [40, 31]	:	[3, 5]
+Current position : [1, 15]
+Path Array : [[1, 13], [1, 14], [1, 15]]
+
+Final point : [40, 31]	:	[1, 15]
+Current position : [8, 9]
+Path Array : [[3, 9], [4, 9], [5, 9], [6, 9], [7, 9], [8, 9]]
+
+Final point : [40, 31]	:	[8, 9]
+Current position : [3, 4]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6], [3, 5], [3, 4]]
+
+Final point : [40, 31]	:	[3, 4]
+Current position : [1, 16]
+Path Array : [[1, 13], [1, 14], [1, 15], [1, 16]]
+
+Final point : [40, 31]	:	[1, 16]
+Current position : [9, 9]
+Path Array : [[3, 9], [4, 9], [5, 9], [6, 9], [7, 9], [8, 9], [9, 9]]
+
+Final point : [40, 31]	:	[9, 9]
+Current position : [3, 3]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6], [3, 5], [3, 4], [3, 3]]
+
+Final point : [40, 31]	:	[3, 3]
+Current position : [1, 17]
+Path Array : [[1, 13], [1, 14], [1, 15], [1, 16], [1, 17]]
+
+Final point : [40, 31]	:	[1, 17]
+Current position : [9, 8]
+Path Array : [[3, 9], [4, 9], [5, 9], [6, 9], [7, 9], [8, 9], [9, 9], [9, 8]]
+
+Final point : [40, 31]	:	[9, 8]
+Current position : [3, 2]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6], [3, 5], [3, 4], [3, 3], [3, 2]]
+
+Final point : [40, 31]	:	[3, 2]
+Current position : [1, 18]
+Path Array : [[1, 13], [1, 14], [1, 15], [1, 16], [1, 17], [1, 18]]
+
+Final point : [40, 31]	:	[1, 18]
+Current position : [9, 7]
+Path Array : [[3, 9], [4, 9], [5, 9], [6, 9], [7, 9], [8, 9], [9, 9], [9, 8], [9, 7]]
+
+Final point : [40, 31]	:	[9, 7]
+##############################Split point reached##############################
+
+Current position : [1, 19]
+Path Array : [[1, 13], [1, 14], [1, 15], [1, 16], [1, 17], [1, 18], [1, 19]]
+
+Final point : [40, 31]	:	[1, 19]
+##############################Split point reached##############################
+
+Current position : [9, 6]
+Path Array : [[9, 7], [9, 6]]
+
+Final point : [40, 31]	:	[9, 6]
+Current position : [2, 19]
+Path Array : [[1, 19], [2, 19]]
+
+Final point : [40, 31]	:	[2, 19]
+Current position : [1, 20]
+Path Array : [[1, 19], [1, 20]]
+
+Final point : [40, 31]	:	[1, 20]
+Current position : [3, 1]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6], [3, 5], [3, 4], [3, 3], [3, 2], [3, 1]]
+
+Final point : [40, 31]	:	[3, 1]
+Current position : [10, 7]
+Path Array : [[9, 7], [10, 7]]
+
+Final point : [40, 31]	:	[10, 7]
+Current position : [9, 5]
+Path Array : [[9, 7], [9, 6], [9, 5]]
+
+Final point : [40, 31]	:	[9, 5]
+Current position : [3, 19]
+Path Array : [[1, 19], [2, 19], [3, 19]]
+
+Final point : [40, 31]	:	[3, 19]
+Current position : [1, 21]
+Path Array : [[1, 19], [1, 20], [1, 21]]
+
+Final point : [40, 31]	:	[1, 21]
+##############################Dead point reached##############################
+
+Current position : [2, 1]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6], [3, 5], [3, 4], [3, 3], [3, 2], [3, 1], [2, 1]]
+
+Final point : [40, 31]	:	[2, 1]
+Current position : [11, 7]
+Path Array : [[9, 7], [10, 7], [11, 7]]
+
+Final point : [40, 31]	:	[11, 7]
+##############################Dead point reached##############################
+
+Current position : [3, 18]
+Path Array : [[1, 19], [2, 19], [3, 19], [3, 18]]
+
+Final point : [40, 31]	:	[3, 18]
+Current position : [1, 1]
+Path Array : [[3, 9], [3, 8], [3, 7], [3, 6], [3, 5], [3, 4], [3, 3], [3, 2], [3, 1], [2, 1], [1, 1]]
+
+Final point : [40, 31]	:	[1, 1]
+##############################Dead point reached##############################
+
+Current position : [3, 17]
+Path Array : [[1, 19], [2, 19], [3, 19], [3, 18], [3, 17]]
+
+Final point : [40, 31]	:	[3, 17]
+##############################Split point reached##############################
+
+Current position : [3, 16]
+Path Array : [[3, 17], [3, 16]]
+
+Final point : [40, 31]	:	[3, 16]
+Current position : [9, 4]
+Path Array : [[9, 7], [9, 6], [9, 5], [9, 4]]
+
+Final point : [40, 31]	:	[9, 4]
+Current position : [4, 17]
+Path Array : [[3, 17], [4, 17]]
+
+Final point : [40, 31]	:	[4, 17]
+Current position : [3, 15]
+Path Array : [[3, 17], [3, 16], [3, 15]]
+
+Final point : [40, 31]	:	[3, 15]
+##############################Dead point reached##############################
+
+Current position : [9, 3]
+Path Array : [[9, 7], [9, 6], [9, 5], [9, 4], [9, 3]]
+
+Final point : [40, 31]	:	[9, 3]
+Current position : [5, 17]
+Path Array : [[3, 17], [4, 17], [5, 17]]
+
+Final point : [40, 31]	:	[5, 17]
+Current position : [9, 2]
+Path Array : [[9, 7], [9, 6], [9, 5], [9, 4], [9, 3], [9, 2]]
+
+Final point : [40, 31]	:	[9, 2]
+Current position : [5, 18]
+Path Array : [[3, 17], [4, 17], [5, 17], [5, 18]]
+
+Final point : [40, 31]	:	[5, 18]
+Current position : [9, 1]
+Path Array : [[9, 7], [9, 6], [9, 5], [9, 4], [9, 3], [9, 2], [9, 1]]
+
+Final point : [40, 31]	:	[9, 1]
+##############################Split point reached##############################
+
+Current position : [8, 1]
+Path Array : [[9, 1], [8, 1]]
+
+Final point : [40, 31]	:	[8, 1]
+Current position : [10, 1]
+Path Array : [[9, 1], [10, 1]]
+
+Final point : [40, 31]	:	[10, 1]
+Current position : [5, 19]
+Path Array : [[3, 17], [4, 17], [5, 17], [5, 18], [5, 19]]
+
+Final point : [40, 31]	:	[5, 19]
+##############################Dead point reached##############################
+
+Current position : [11, 1]
+Path Array : [[9, 1], [10, 1], [11, 1]]
+
+Final point : [40, 31]	:	[11, 1]
+##############################Split point reached##############################
+
+Current position : [11, 2]
+Path Array : [[11, 1], [11, 2]]
+
+Final point : [40, 31]	:	[11, 2]
+Current position : [7, 1]
+Path Array : [[9, 1], [8, 1], [7, 1]]
+
+Final point : [40, 31]	:	[7, 1]
+Current position : [12, 1]
+Path Array : [[11, 1], [12, 1]]
+
+Final point : [40, 31]	:	[12, 1]
+Current position : [11, 3]
+Path Array : [[11, 1], [11, 2], [11, 3]]
+
+Final point : [40, 31]	:	[11, 3]
+Current position : [7, 2]
+Path Array : [[9, 1], [8, 1], [7, 1], [7, 2]]
+
+Final point : [40, 31]	:	[7, 2]
+Current position : [13, 1]
+Path Array : [[11, 1], [12, 1], [13, 1]]
+
+Final point : [40, 31]	:	[13, 1]
+##############################Dead point reached##############################
+
+Current position : [7, 3]
+Path Array : [[9, 1], [8, 1], [7, 1], [7, 2], [7, 3]]
+
+Final point : [40, 31]	:	[7, 3]
+Current position : [11, 4]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4]]
+
+Final point : [40, 31]	:	[11, 4]
+Current position : [7, 4]
+Path Array : [[9, 1], [8, 1], [7, 1], [7, 2], [7, 3], [7, 4]]
+
+Final point : [40, 31]	:	[7, 4]
+Current position : [11, 5]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4], [11, 5]]
+
+Final point : [40, 31]	:	[11, 5]
+Current position : [7, 5]
+Path Array : [[9, 1], [8, 1], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5]]
+
+Final point : [40, 31]	:	[7, 5]
+Current position : [12, 5]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4], [11, 5], [12, 5]]
+
+Final point : [40, 31]	:	[12, 5]
+Current position : [6, 5]
+Path Array : [[9, 1], [8, 1], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5], [6, 5]]
+
+Final point : [40, 31]	:	[6, 5]
+Current position : [13, 5]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4], [11, 5], [12, 5], [13, 5]]
+
+Final point : [40, 31]	:	[13, 5]
+Current position : [5, 5]
+Path Array : [[9, 1], [8, 1], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5], [6, 5], [5, 5]]
+
+Final point : [40, 31]	:	[5, 5]
+##############################Split point reached##############################
+
+Current position : [5, 6]
+Path Array : [[5, 5], [5, 6]]
+
+Final point : [40, 31]	:	[5, 6]
+Current position : [5, 4]
+Path Array : [[5, 5], [5, 4]]
+
+Final point : [40, 31]	:	[5, 4]
+Current position : [13, 4]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4], [11, 5], [12, 5], [13, 5], [13, 4]]
+
+Final point : [40, 31]	:	[13, 4]
+Current position : [5, 7]
+Path Array : [[5, 5], [5, 6], [5, 7]]
+
+Final point : [40, 31]	:	[5, 7]
+Current position : [5, 3]
+Path Array : [[5, 5], [5, 4], [5, 3]]
+
+Final point : [40, 31]	:	[5, 3]
+Current position : [13, 3]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4], [11, 5], [12, 5], [13, 5], [13, 4], [13, 3]]
+
+Final point : [40, 31]	:	[13, 3]
+Current position : [6, 7]
+Path Array : [[5, 5], [5, 6], [5, 7], [6, 7]]
+
+Final point : [40, 31]	:	[6, 7]
+Current position : [5, 2]
+Path Array : [[5, 5], [5, 4], [5, 3], [5, 2]]
+
+Final point : [40, 31]	:	[5, 2]
+Current position : [14, 3]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4], [11, 5], [12, 5], [13, 5], [13, 4], [13, 3], [14, 3]]
+
+Final point : [40, 31]	:	[14, 3]
+Current position : [7, 7]
+Path Array : [[5, 5], [5, 6], [5, 7], [6, 7], [7, 7]]
+
+Final point : [40, 31]	:	[7, 7]
+##############################Dead point reached##############################
+
+Current position : [15, 3]
+Path Array : [[11, 1], [11, 2], [11, 3], [11, 4], [11, 5], [12, 5], [13, 5], [13, 4], [13, 3], [14, 3], [15, 3]]
+
+Final point : [40, 31]	:	[15, 3]
+##############################Split point reached##############################
+
+Current position : [15, 4]
+Path Array : [[15, 3], [15, 4]]
+
+Final point : [40, 31]	:	[15, 4]
+Current position : [15, 2]
+Path Array : [[15, 3], [15, 2]]
+
+Final point : [40, 31]	:	[15, 2]
+Current position : [5, 1]
+Path Array : [[5, 5], [5, 4], [5, 3], [5, 2], [5, 1]]
+
+Final point : [40, 31]	:	[5, 1]
+##############################Dead point reached##############################
+
+Current position : [15, 1]
+Path Array : [[15, 3], [15, 2], [15, 1]]
+
+Final point : [40, 31]	:	[15, 1]
+Current position : [15, 5]
+Path Array : [[15, 3], [15, 4], [15, 5]]
+
+Final point : [40, 31]	:	[15, 5]
+Current position : [16, 1]
+Path Array : [[15, 3], [15, 2], [15, 1], [16, 1]]
+
+Final point : [40, 31]	:	[16, 1]
+Current position : [15, 6]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6]]
+
+Final point : [40, 31]	:	[15, 6]
+Current position : [17, 1]
+Path Array : [[15, 3], [15, 2], [15, 1], [16, 1], [17, 1]]
+
+Final point : [40, 31]	:	[17, 1]
+##############################Dead point reached##############################
+
+Current position : [15, 7]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6], [15, 7]]
+
+Final point : [40, 31]	:	[15, 7]
+Current position : [15, 8]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6], [15, 7], [15, 8]]
+
+Final point : [40, 31]	:	[15, 8]
+Current position : [15, 9]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6], [15, 7], [15, 8], [15, 9]]
+
+Final point : [40, 31]	:	[15, 9]
+Current position : [15, 10]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6], [15, 7], [15, 8], [15, 9], [15, 10]]
+
+Final point : [40, 31]	:	[15, 10]
+Current position : [15, 11]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6], [15, 7], [15, 8], [15, 9], [15, 10], [15, 11]]
+
+Final point : [40, 31]	:	[15, 11]
+Current position : [14, 11]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6], [15, 7], [15, 8], [15, 9], [15, 10], [15, 11], [14, 11]]
+
+Final point : [40, 31]	:	[14, 11]
+Current position : [13, 11]
+Path Array : [[15, 3], [15, 4], [15, 5], [15, 6], [15, 7], [15, 8], [15, 9], [15, 10], [15, 11], [14, 11], [13, 11]]
+
+Final point : [40, 31]	:	[13, 11]
+##############################Split point reached##############################
+
+Current position : [13, 10]
+Path Array : [[13, 11], [13, 10]]
+
+Final point : [40, 31]	:	[13, 10]
+Current position : [13, 12]
+Path Array : [[13, 11], [13, 12]]
+
+Final point : [40, 31]	:	[13, 12]
+Current position : [13, 9]
+Path Array : [[13, 11], [13, 10], [13, 9]]
+
+Final point : [40, 31]	:	[13, 9]
+##############################Split point reached##############################
+
+Current position : [13, 8]
+Path Array : [[13, 9], [13, 8]]
+
+Final point : [40, 31]	:	[13, 8]
+Current position : [13, 13]
+Path Array : [[13, 11], [13, 12], [13, 13]]
+
+Final point : [40, 31]	:	[13, 13]
+Current position : [12, 9]
+Path Array : [[13, 9], [12, 9]]
+
+Final point : [40, 31]	:	[12, 9]
+Current position : [13, 7]
+Path Array : [[13, 9], [13, 8], [13, 7]]
+
+Final point : [40, 31]	:	[13, 7]
+##############################Dead point reached##############################
+
+Current position : [12, 13]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13]]
+
+Final point : [40, 31]	:	[12, 13]
+Current position : [11, 9]
+Path Array : [[13, 9], [12, 9], [11, 9]]
+
+Final point : [40, 31]	:	[11, 9]
+Current position : [11, 13]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13]]
+
+Final point : [40, 31]	:	[11, 13]
+Current position : [11, 10]
+Path Array : [[13, 9], [12, 9], [11, 9], [11, 10]]
+
+Final point : [40, 31]	:	[11, 10]
+Current position : [11, 14]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14]]
+
+Final point : [40, 31]	:	[11, 14]
+Current position : [11, 11]
+Path Array : [[13, 9], [12, 9], [11, 9], [11, 10], [11, 11]]
+
+Final point : [40, 31]	:	[11, 11]
+##############################Dead point reached##############################
+
+Current position : [11, 15]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15]]
+
+Final point : [40, 31]	:	[11, 15]
+Current position : [11, 16]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15], [11, 16]]
+
+Final point : [40, 31]	:	[11, 16]
+Current position : [11, 17]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15], [11, 16], [11, 17]]
+
+Final point : [40, 31]	:	[11, 17]
+Current position : [12, 17]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15], [11, 16], [11, 17], [12, 17]]
+
+Final point : [40, 31]	:	[12, 17]
+Current position : [13, 17]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15], [11, 16], [11, 17], [12, 17], [13, 17]]
+
+Final point : [40, 31]	:	[13, 17]
+Current position : [13, 18]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15], [11, 16], [11, 17], [12, 17], [13, 17], [13, 18]]
+
+Final point : [40, 31]	:	[13, 18]
+Current position : [13, 19]
+Path Array : [[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15], [11, 16], [11, 17], [12, 17], [13, 17], [13, 18], [13, 19]]
+
+Final point : [40, 31]	:	[13, 19]
+##############################Split point reached##############################
+
+Current position : [13, 20]
+Path Array : [[13, 19], [13, 20]]
+
+Final point : [40, 31]	:	[13, 20]
+Current position : [12, 19]
+Path Array : [[13, 19], [12, 19]]
+
+Final point : [40, 31]	:	[12, 19]
+Current position : [13, 21]
+Path Array : [[13, 19], [13, 20], [13, 21]]
+
+Final point : [40, 31]	:	[13, 21]
+Current position : [11, 19]
+Path Array : [[13, 19], [12, 19], [11, 19]]
+
+Final point : [40, 31]	:	[11, 19]
+##############################Dead point reached##############################
+
+Current position : [13, 22]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22]]
+
+Final point : [40, 31]	:	[13, 22]
+Current position : [13, 23]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23]]
+
+Final point : [40, 31]	:	[13, 23]
+Current position : [13, 24]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24]]
+
+Final point : [40, 31]	:	[13, 24]
+Current position : [13, 25]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25]]
+
+Final point : [40, 31]	:	[13, 25]
+Current position : [12, 25]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25]]
+
+Final point : [40, 31]	:	[12, 25]
+Current position : [11, 25]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25]]
+
+Final point : [40, 31]	:	[11, 25]
+Current position : [10, 25]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25], [10, 25]]
+
+Final point : [40, 31]	:	[10, 25]
+Current position : [9, 25]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25], [10, 25], [9, 25]]
+
+Final point : [40, 31]	:	[9, 25]
+Current position : [9, 24]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25], [10, 25], [9, 25], [9, 24]]
+
+Final point : [40, 31]	:	[9, 24]
+Current position : [9, 23]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25], [10, 25], [9, 25], [9, 24], [9, 23]]
+
+Final point : [40, 31]	:	[9, 23]
+Current position : [9, 22]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25], [10, 25], [9, 25], [9, 24], [9, 23], [9, 22]]
+
+Final point : [40, 31]	:	[9, 22]
+Current position : [9, 21]
+Path Array : [[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25], [10, 25], [9, 25], [9, 24], [9, 23], [9, 22], [9, 21]]
+
+Final point : [40, 31]	:	[9, 21]
+##############################Split point reached##############################
+
+Current position : [10, 21]
+Path Array : [[9, 21], [10, 21]]
+
+Final point : [40, 31]	:	[10, 21]
+Current position : [8, 21]
+Path Array : [[9, 21], [8, 21]]
+
+Final point : [40, 31]	:	[8, 21]
+Current position : [11, 21]
+Path Array : [[9, 21], [10, 21], [11, 21]]
+
+Final point : [40, 31]	:	[11, 21]
+Current position : [7, 21]
+Path Array : [[9, 21], [8, 21], [7, 21]]
+
+Final point : [40, 31]	:	[7, 21]
+##############################Split point reached##############################
+
+Current position : [6, 21]
+Path Array : [[7, 21], [6, 21]]
+
+Final point : [40, 31]	:	[6, 21]
+Current position : [7, 22]
+Path Array : [[7, 21], [7, 22]]
+
+Final point : [40, 31]	:	[7, 22]
+Current position : [7, 20]
+Path Array : [[7, 21], [7, 20]]
+
+Final point : [40, 31]	:	[7, 20]
+Current position : [11, 22]
+Path Array : [[9, 21], [10, 21], [11, 21], [11, 22]]
+
+Final point : [40, 31]	:	[11, 22]
+Current position : [5, 21]
+Path Array : [[7, 21], [6, 21], [5, 21]]
+
+Final point : [40, 31]	:	[5, 21]
+Current position : [7, 23]
+Path Array : [[7, 21], [7, 22], [7, 23]]
+
+Final point : [40, 31]	:	[7, 23]
+##############################Dead point reached##############################
+
+Current position : [11, 23]
+Path Array : [[9, 21], [10, 21], [11, 21], [11, 22], [11, 23]]
+
+Final point : [40, 31]	:	[11, 23]
+##############################Dead point reached##############################
+
+Current position : [7, 19]
+Path Array : [[7, 21], [7, 20], [7, 19]]
+
+Final point : [40, 31]	:	[7, 19]
+Current position : [5, 22]
+Path Array : [[7, 21], [6, 21], [5, 21], [5, 22]]
+
+Final point : [40, 31]	:	[5, 22]
+Current position : [7, 18]
+Path Array : [[7, 21], [7, 20], [7, 19], [7, 18]]
+
+Final point : [40, 31]	:	[7, 18]
+Current position : [5, 23]
+Path Array : [[7, 21], [6, 21], [5, 21], [5, 22], [5, 23]]
+
+Final point : [40, 31]	:	[5, 23]
+Current position : [7, 17]
+Path Array : [[7, 21], [7, 20], [7, 19], [7, 18], [7, 17]]
+
+Final point : [40, 31]	:	[7, 17]
+Current position : [4, 23]
+Path Array : [[7, 21], [6, 21], [5, 21], [5, 22], [5, 23], [4, 23]]
+
+Final point : [40, 31]	:	[4, 23]
+Current position : [8, 17]
+Path Array : [[7, 21], [7, 20], [7, 19], [7, 18], [7, 17], [8, 17]]
+
+Final point : [40, 31]	:	[8, 17]
+Current position : [3, 23]
+Path Array : [[7, 21], [6, 21], [5, 21], [5, 22], [5, 23], [4, 23], [3, 23]]
+
+Final point : [40, 31]	:	[3, 23]
+##############################Split point reached##############################
+
+Current position : [3, 24]
+Path Array : [[3, 23], [3, 24]]
+
+Final point : [40, 31]	:	[3, 24]
+Current position : [3, 22]
+Path Array : [[3, 23], [3, 22]]
+
+Final point : [40, 31]	:	[3, 22]
+Current position : [9, 17]
+Path Array : [[7, 21], [7, 20], [7, 19], [7, 18], [7, 17], [8, 17], [9, 17]]
+
+Final point : [40, 31]	:	[9, 17]
+##############################Split point reached##############################
+
+Current position : [3, 21]
+Path Array : [[3, 23], [3, 22], [3, 21]]
+
+Final point : [40, 31]	:	[3, 21]
+##############################Dead point reached##############################
+
+Current position : [9, 16]
+Path Array : [[9, 17], [9, 16]]
+
+Final point : [40, 31]	:	[9, 16]
+Current position : [3, 25]
+Path Array : [[3, 23], [3, 24], [3, 25]]
+
+Final point : [40, 31]	:	[3, 25]
+Current position : [9, 18]
+Path Array : [[9, 17], [9, 18]]
+
+Final point : [40, 31]	:	[9, 18]
+Current position : [9, 15]
+Path Array : [[9, 17], [9, 16], [9, 15]]
+
+Final point : [40, 31]	:	[9, 15]
+##############################Split point reached##############################
+
+Current position : [9, 14]
+Path Array : [[9, 15], [9, 14]]
+
+Final point : [40, 31]	:	[9, 14]
+Current position : [4, 25]
+Path Array : [[3, 23], [3, 24], [3, 25], [4, 25]]
+
+Final point : [40, 31]	:	[4, 25]
+Current position : [9, 19]
+Path Array : [[9, 17], [9, 18], [9, 19]]
+
+Final point : [40, 31]	:	[9, 19]
+##############################Dead point reached##############################
+
+Current position : [9, 13]
+Path Array : [[9, 15], [9, 14], [9, 13]]
+
+Final point : [40, 31]	:	[9, 13]
+Current position : [5, 25]
+Path Array : [[3, 23], [3, 24], [3, 25], [4, 25], [5, 25]]
+
+Final point : [40, 31]	:	[5, 25]
+Current position : [8, 15]
+Path Array : [[9, 15], [8, 15]]
+
+Final point : [40, 31]	:	[8, 15]
+Current position : [8, 13]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13]]
+
+Final point : [40, 31]	:	[8, 13]
+Current position : [5, 26]
+Path Array : [[3, 23], [3, 24], [3, 25], [4, 25], [5, 25], [5, 26]]
+
+Final point : [40, 31]	:	[5, 26]
+Current position : [7, 15]
+Path Array : [[9, 15], [8, 15], [7, 15]]
+
+Final point : [40, 31]	:	[7, 15]
+Current position : [7, 13]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13]]
+
+Final point : [40, 31]	:	[7, 13]
+Current position : [5, 27]
+Path Array : [[3, 23], [3, 24], [3, 25], [4, 25], [5, 25], [5, 26], [5, 27]]
+
+Final point : [40, 31]	:	[5, 27]
+Current position : [6, 15]
+Path Array : [[9, 15], [8, 15], [7, 15], [6, 15]]
+
+Final point : [40, 31]	:	[6, 15]
+Current position : [6, 13]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13]]
+
+Final point : [40, 31]	:	[6, 13]
+Current position : [6, 27]
+Path Array : [[3, 23], [3, 24], [3, 25], [4, 25], [5, 25], [5, 26], [5, 27], [6, 27]]
+
+Final point : [40, 31]	:	[6, 27]
+Current position : [5, 15]
+Path Array : [[9, 15], [8, 15], [7, 15], [6, 15], [5, 15]]
+
+Final point : [40, 31]	:	[5, 15]
+##############################Dead point reached##############################
+
+Current position : [7, 27]
+Path Array : [[3, 23], [3, 24], [3, 25], [4, 25], [5, 25], [5, 26], [5, 27], [6, 27], [7, 27]]
+
+Final point : [40, 31]	:	[7, 27]
+##############################Split point reached##############################
+
+Current position : [7, 28]
+Path Array : [[7, 27], [7, 28]]
+
+Final point : [40, 31]	:	[7, 28]
+Current position : [7, 26]
+Path Array : [[7, 27], [7, 26]]
+
+Final point : [40, 31]	:	[7, 26]
+Current position : [5, 13]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13], [5, 13]]
+
+Final point : [40, 31]	:	[5, 13]
+Current position : [7, 29]
+Path Array : [[7, 27], [7, 28], [7, 29]]
+
+Final point : [40, 31]	:	[7, 29]
+Current position : [7, 25]
+Path Array : [[7, 27], [7, 26], [7, 25]]
+
+Final point : [40, 31]	:	[7, 25]
+##############################Dead point reached##############################
+
+Current position : [5, 12]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13], [5, 13], [5, 12]]
+
+Final point : [40, 31]	:	[5, 12]
+Current position : [8, 29]
+Path Array : [[7, 27], [7, 28], [7, 29], [8, 29]]
+
+Final point : [40, 31]	:	[8, 29]
+Current position : [5, 11]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13], [5, 13], [5, 12], [5, 11]]
+
+Final point : [40, 31]	:	[5, 11]
+Current position : [9, 29]
+Path Array : [[7, 27], [7, 28], [7, 29], [8, 29], [9, 29]]
+
+Final point : [40, 31]	:	[9, 29]
+Current position : [6, 11]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13], [5, 13], [5, 12], [5, 11], [6, 11]]
+
+Final point : [40, 31]	:	[6, 11]
+Current position : [9, 30]
+Path Array : [[7, 27], [7, 28], [7, 29], [8, 29], [9, 29], [9, 30]]
+
+Final point : [40, 31]	:	[9, 30]
+Current position : [7, 11]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13], [5, 13], [5, 12], [5, 11], [6, 11], [7, 11]]
+
+Final point : [40, 31]	:	[7, 11]
+Current position : [9, 31]
+Path Array : [[7, 27], [7, 28], [7, 29], [8, 29], [9, 29], [9, 30], [9, 31]]
+
+Final point : [40, 31]	:	[9, 31]
+##############################Split point reached##############################
+
+Current position : [10, 31]
+Path Array : [[9, 31], [10, 31]]
+
+Final point : [40, 31]	:	[10, 31]
+Current position : [8, 11]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13], [5, 13], [5, 12], [5, 11], [6, 11], [7, 11], [8, 11]]
+
+Final point : [40, 31]	:	[8, 11]
+Current position : [8, 31]
+Path Array : [[9, 31], [8, 31]]
+
+Final point : [40, 31]	:	[8, 31]
+Current position : [11, 31]
+Path Array : [[9, 31], [10, 31], [11, 31]]
+
+Final point : [40, 31]	:	[11, 31]
+##############################Dead point reached##############################
+
+Current position : [9, 11]
+Path Array : [[9, 15], [9, 14], [9, 13], [8, 13], [7, 13], [6, 13], [5, 13], [5, 12], [5, 11], [6, 11], [7, 11], [8, 11], [9, 11]]
+
+Final point : [40, 31]	:	[9, 11]
+##############################Dead point reached##############################
+
+Current position : [7, 31]
+Path Array : [[9, 31], [8, 31], [7, 31]]
+
+Final point : [40, 31]	:	[7, 31]
+Current position : [6, 31]
+Path Array : [[9, 31], [8, 31], [7, 31], [6, 31]]
+
+Final point : [40, 31]	:	[6, 31]
+Current position : [5, 31]
+Path Array : [[9, 31], [8, 31], [7, 31], [6, 31], [5, 31]]
+
+Final point : [40, 31]	:	[5, 31]
+Current position : [5, 30]
+Path Array : [[9, 31], [8, 31], [7, 31], [6, 31], [5, 31], [5, 30]]
+
+Final point : [40, 31]	:	[5, 30]
+Current position : [5, 29]
+Path Array : [[9, 31], [8, 31], [7, 31], [6, 31], [5, 31], [5, 30], [5, 29]]
+
+Final point : [40, 31]	:	[5, 29]
+Current position : [4, 29]
+Path Array : [[9, 31], [8, 31], [7, 31], [6, 31], [5, 31], [5, 30], [5, 29], [4, 29]]
+
+Final point : [40, 31]	:	[4, 29]
+Current position : [3, 29]
+Path Array : [[9, 31], [8, 31], [7, 31], [6, 31], [5, 31], [5, 30], [5, 29], [4, 29], [3, 29]]
+
+Final point : [40, 31]	:	[3, 29]
+##############################Split point reached##############################
+
+Current position : [3, 30]
+Path Array : [[3, 29], [3, 30]]
+
+Final point : [40, 31]	:	[3, 30]
+Current position : [2, 29]
+Path Array : [[3, 29], [2, 29]]
+
+Final point : [40, 31]	:	[2, 29]
+Current position : [3, 31]
+Path Array : [[3, 29], [3, 30], [3, 31]]
+
+Final point : [40, 31]	:	[3, 31]
+Current position : [1, 29]
+Path Array : [[3, 29], [2, 29], [1, 29]]
+
+Final point : [40, 31]	:	[1, 29]
+Current position : [2, 31]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31]]
+
+Final point : [40, 31]	:	[2, 31]
+Current position : [1, 28]
+Path Array : [[3, 29], [2, 29], [1, 29], [1, 28]]
+
+Final point : [40, 31]	:	[1, 28]
+Current position : [1, 31]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31], [1, 31]]
+
+Final point : [40, 31]	:	[1, 31]
+Current position : [1, 27]
+Path Array : [[3, 29], [2, 29], [1, 29], [1, 28], [1, 27]]
+
+Final point : [40, 31]	:	[1, 27]
+##############################Split point reached##############################
+
+Current position : [2, 27]
+Path Array : [[1, 27], [2, 27]]
+
+Final point : [40, 31]	:	[2, 27]
+Current position : [1, 26]
+Path Array : [[1, 27], [1, 26]]
+
+Final point : [40, 31]	:	[1, 26]
+Current position : [1, 32]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31], [1, 31], [1, 32]]
+
+Final point : [40, 31]	:	[1, 32]
+Current position : [3, 27]
+Path Array : [[1, 27], [2, 27], [3, 27]]
+
+Final point : [40, 31]	:	[3, 27]
+##############################Dead point reached##############################
+
+Current position : [1, 33]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31], [1, 31], [1, 32], [1, 33]]
+
+Final point : [40, 31]	:	[1, 33]
+Current position : [1, 25]
+Path Array : [[1, 27], [1, 26], [1, 25]]
+
+Final point : [40, 31]	:	[1, 25]
+Current position : [2, 33]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31], [1, 31], [1, 32], [1, 33], [2, 33]]
+
+Final point : [40, 31]	:	[2, 33]
+Current position : [1, 24]
+Path Array : [[1, 27], [1, 26], [1, 25], [1, 24]]
+
+Final point : [40, 31]	:	[1, 24]
+Current position : [3, 33]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31], [1, 31], [1, 32], [1, 33], [2, 33], [3, 33]]
+
+Final point : [40, 31]	:	[3, 33]
+Current position : [1, 23]
+Path Array : [[1, 27], [1, 26], [1, 25], [1, 24], [1, 23]]
+
+Final point : [40, 31]	:	[1, 23]
+##############################Dead point reached##############################
+
+Current position : [3, 34]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31], [1, 31], [1, 32], [1, 33], [2, 33], [3, 33], [3, 34]]
+
+Final point : [40, 31]	:	[3, 34]
+Current position : [3, 35]
+Path Array : [[3, 29], [3, 30], [3, 31], [2, 31], [1, 31], [1, 32], [1, 33], [2, 33], [3, 33], [3, 34], [3, 35]]
+
+Final point : [40, 31]	:	[3, 35]
+##############################Split point reached##############################
+
+Current position : [3, 36]
+Path Array : [[3, 35], [3, 36]]
+
+Final point : [40, 31]	:	[3, 36]
+Current position : [2, 35]
+Path Array : [[3, 35], [2, 35]]
+
+Final point : [40, 31]	:	[2, 35]
+Current position : [3, 37]
+Path Array : [[3, 35], [3, 36], [3, 37]]
+
+Final point : [40, 31]	:	[3, 37]
+Current position : [1, 35]
+Path Array : [[3, 35], [2, 35], [1, 35]]
+
+Final point : [40, 31]	:	[1, 35]
+Current position : [4, 37]
+Path Array : [[3, 35], [3, 36], [3, 37], [4, 37]]
+
+Final point : [40, 31]	:	[4, 37]
+Current position : [1, 36]
+Path Array : [[3, 35], [2, 35], [1, 35], [1, 36]]
+
+Final point : [40, 31]	:	[1, 36]
+Current position : [5, 37]
+Path Array : [[3, 35], [3, 36], [3, 37], [4, 37], [5, 37]]
+
+Final point : [40, 31]	:	[5, 37]
+##############################Split point reached##############################
+
+Current position : [5, 36]
+Path Array : [[5, 37], [5, 36]]
+
+Final point : [40, 31]	:	[5, 36]
+Current position : [1, 37]
+Path Array : [[3, 35], [2, 35], [1, 35], [1, 36], [1, 37]]
+
+Final point : [40, 31]	:	[1, 37]
+Current position : [5, 38]
+Path Array : [[5, 37], [5, 38]]
+
+Final point : [40, 31]	:	[5, 38]
+Current position : [5, 35]
+Path Array : [[5, 37], [5, 36], [5, 35]]
+
+Final point : [40, 31]	:	[5, 35]
+Current position : [1, 38]
+Path Array : [[3, 35], [2, 35], [1, 35], [1, 36], [1, 37], [1, 38]]
+
+Final point : [40, 31]	:	[1, 38]
+Current position : [5, 39]
+Path Array : [[5, 37], [5, 38], [5, 39]]
+
+Final point : [40, 31]	:	[5, 39]
+##############################Split point reached##############################
+
+Current position : [4, 39]
+Path Array : [[5, 39], [4, 39]]
+
+Final point : [40, 31]	:	[4, 39]
+Current position : [6, 39]
+Path Array : [[5, 39], [6, 39]]
+
+Final point : [40, 31]	:	[6, 39]
+Current position : [1, 39]
+Path Array : [[3, 35], [2, 35], [1, 35], [1, 36], [1, 37], [1, 38], [1, 39]]
+
+Final point : [40, 31]	:	[1, 39]
+##############################Dead point reached##############################
+
+Current position : [3, 39]
+Path Array : [[5, 39], [4, 39], [3, 39]]
+
+Final point : [40, 31]	:	[3, 39]
+##############################Dead point reached##############################
+
+Current position : [6, 35]
+Path Array : [[5, 37], [5, 36], [5, 35], [6, 35]]
+
+Final point : [40, 31]	:	[6, 35]
+Current position : [7, 39]
+Path Array : [[5, 39], [6, 39], [7, 39]]
+
+Final point : [40, 31]	:	[7, 39]
+##############################Dead point reached##############################
+
+Current position : [7, 35]
+Path Array : [[5, 37], [5, 36], [5, 35], [6, 35], [7, 35]]
+
+Final point : [40, 31]	:	[7, 35]
+Current position : [7, 34]
+Path Array : [[5, 37], [5, 36], [5, 35], [6, 35], [7, 35], [7, 34]]
+
+Final point : [40, 31]	:	[7, 34]
+Current position : [7, 33]
+Path Array : [[5, 37], [5, 36], [5, 35], [6, 35], [7, 35], [7, 34], [7, 33]]
+
+Final point : [40, 31]	:	[7, 33]
+##############################Split point reached##############################
+
+Current position : [8, 33]
+Path Array : [[7, 33], [8, 33]]
+
+Final point : [40, 31]	:	[8, 33]
+Current position : [6, 33]
+Path Array : [[7, 33], [6, 33]]
+
+Final point : [40, 31]	:	[6, 33]
+Current position : [9, 33]
+Path Array : [[7, 33], [8, 33], [9, 33]]
+
+Final point : [40, 31]	:	[9, 33]
+Current position : [5, 33]
+Path Array : [[7, 33], [6, 33], [5, 33]]
+
+Final point : [40, 31]	:	[5, 33]
+##############################Dead point reached##############################
+
+Current position : [9, 34]
+Path Array : [[7, 33], [8, 33], [9, 33], [9, 34]]
+
+Final point : [40, 31]	:	[9, 34]
+Current position : [9, 35]
+Path Array : [[7, 33], [8, 33], [9, 33], [9, 34], [9, 35]]
+
+Final point : [40, 31]	:	[9, 35]
+Current position : [10, 35]
+Path Array : [[7, 33], [8, 33], [9, 33], [9, 34], [9, 35], [10, 35]]
+
+Final point : [40, 31]	:	[10, 35]
+Current position : [11, 35]
+Path Array : [[7, 33], [8, 33], [9, 33], [9, 34], [9, 35], [10, 35], [11, 35]]
+
+Final point : [40, 31]	:	[11, 35]
+##############################Split point reached##############################
+
+Current position : [11, 34]
+Path Array : [[11, 35], [11, 34]]
+
+Final point : [40, 31]	:	[11, 34]
+Current position : [11, 36]
+Path Array : [[11, 35], [11, 36]]
+
+Final point : [40, 31]	:	[11, 36]
+Current position : [11, 33]
+Path Array : [[11, 35], [11, 34], [11, 33]]
+
+Final point : [40, 31]	:	[11, 33]
+##############################Dead point reached##############################
+
+Current position : [11, 37]
+Path Array : [[11, 35], [11, 36], [11, 37]]
+
+Final point : [40, 31]	:	[11, 37]
+##############################Split point reached##############################
+
+Current position : [12, 37]
+Path Array : [[11, 37], [12, 37]]
+
+Final point : [40, 31]	:	[12, 37]
+Current position : [10, 37]
+Path Array : [[11, 37], [10, 37]]
+
+Final point : [40, 31]	:	[10, 37]
+Current position : [13, 37]
+Path Array : [[11, 37], [12, 37], [13, 37]]
+
+Final point : [40, 31]	:	[13, 37]
+##############################Split point reached##############################
+
+Current position : [13, 38]
+Path Array : [[13, 37], [13, 38]]
+
+Final point : [40, 31]	:	[13, 38]
+Current position : [13, 36]
+Path Array : [[13, 37], [13, 36]]
+
+Final point : [40, 31]	:	[13, 36]
+Current position : [9, 37]
+Path Array : [[11, 37], [10, 37], [9, 37]]
+
+Final point : [40, 31]	:	[9, 37]
+Current position : [14, 37]
+Path Array : [[13, 37], [14, 37]]
+
+Final point : [40, 31]	:	[14, 37]
+Current position : [13, 39]
+Path Array : [[13, 37], [13, 38], [13, 39]]
+
+Final point : [40, 31]	:	[13, 39]
+##############################Split point reached##############################
+
+Current position : [12, 39]
+Path Array : [[13, 39], [12, 39]]
+
+Final point : [40, 31]	:	[12, 39]
+Current position : [14, 39]
+Path Array : [[13, 39], [14, 39]]
+
+Final point : [40, 31]	:	[14, 39]
+Current position : [8, 37]
+Path Array : [[11, 37], [10, 37], [9, 37], [8, 37]]
+
+Final point : [40, 31]	:	[8, 37]
+Current position : [15, 37]
+Path Array : [[13, 37], [14, 37], [15, 37]]
+
+Final point : [40, 31]	:	[15, 37]
+Current position : [13, 35]
+Path Array : [[13, 37], [13, 36], [13, 35]]
+
+Final point : [40, 31]	:	[13, 35]
+##############################Dead point reached##############################
+
+Current position : [15, 39]
+Path Array : [[13, 39], [14, 39], [15, 39]]
+
+Final point : [40, 31]	:	[15, 39]
+##############################Dead point reached##############################
+
+Current position : [7, 37]
+Path Array : [[11, 37], [10, 37], [9, 37], [8, 37], [7, 37]]
+
+Final point : [40, 31]	:	[7, 37]
+##############################Dead point reached##############################
+
+Current position : [11, 39]
+Path Array : [[13, 39], [12, 39], [11, 39]]
+
+Final point : [40, 31]	:	[11, 39]
+Current position : [15, 36]
+Path Array : [[13, 37], [14, 37], [15, 37], [15, 36]]
+
+Final point : [40, 31]	:	[15, 36]
+Current position : [10, 39]
+Path Array : [[13, 39], [12, 39], [11, 39], [10, 39]]
+
+Final point : [40, 31]	:	[10, 39]
+Current position : [15, 35]
+Path Array : [[13, 37], [14, 37], [15, 37], [15, 36], [15, 35]]
+
+Final point : [40, 31]	:	[15, 35]
+Current position : [9, 39]
+Path Array : [[13, 39], [12, 39], [11, 39], [10, 39], [9, 39]]
+
+Final point : [40, 31]	:	[9, 39]
+##############################Dead point reached##############################
+
+Current position : [15, 34]
+Path Array : [[13, 37], [14, 37], [15, 37], [15, 36], [15, 35], [15, 34]]
+
+Final point : [40, 31]	:	[15, 34]
+Current position : [15, 33]
+Path Array : [[13, 37], [14, 37], [15, 37], [15, 36], [15, 35], [15, 34], [15, 33]]
+
+Final point : [40, 31]	:	[15, 33]
+##############################Split point reached##############################
+
+Current position : [16, 33]
+Path Array : [[15, 33], [16, 33]]
+
+Final point : [40, 31]	:	[16, 33]
+Current position : [14, 33]
+Path Array : [[15, 33], [14, 33]]
+
+Final point : [40, 31]	:	[14, 33]
+Current position : [17, 33]
+Path Array : [[15, 33], [16, 33], [17, 33]]
+
+Final point : [40, 31]	:	[17, 33]
+Current position : [13, 33]
+Path Array : [[15, 33], [14, 33], [13, 33]]
+
+Final point : [40, 31]	:	[13, 33]
+##############################Dead point reached##############################
+
+Current position : [18, 33]
+Path Array : [[15, 33], [16, 33], [17, 33], [18, 33]]
+
+Final point : [40, 31]	:	[18, 33]
+Current position : [19, 33]
+Path Array : [[15, 33], [16, 33], [17, 33], [18, 33], [19, 33]]
+
+Final point : [40, 31]	:	[19, 33]
+Current position : [20, 33]
+Path Array : [[15, 33], [16, 33], [17, 33], [18, 33], [19, 33], [20, 33]]
+
+Final point : [40, 31]	:	[20, 33]
+Current position : [21, 33]
+Path Array : [[15, 33], [16, 33], [17, 33], [18, 33], [19, 33], [20, 33], [21, 33]]
+
+Final point : [40, 31]	:	[21, 33]
+##############################Split point reached##############################
+
+Current position : [21, 34]
+Path Array : [[21, 33], [21, 34]]
+
+Final point : [40, 31]	:	[21, 34]
+Current position : [22, 33]
+Path Array : [[21, 33], [22, 33]]
+
+Final point : [40, 31]	:	[22, 33]
+Current position : [21, 35]
+Path Array : [[21, 33], [21, 34], [21, 35]]
+
+Final point : [40, 31]	:	[21, 35]
+Current position : [23, 33]
+Path Array : [[21, 33], [22, 33], [23, 33]]
+
+Final point : [40, 31]	:	[23, 33]
+##############################Split point reached##############################
+
+Current position : [23, 34]
+Path Array : [[23, 33], [23, 34]]
+
+Final point : [40, 31]	:	[23, 34]
+Current position : [23, 32]
+Path Array : [[23, 33], [23, 32]]
+
+Final point : [40, 31]	:	[23, 32]
+Current position : [20, 35]
+Path Array : [[21, 33], [21, 34], [21, 35], [20, 35]]
+
+Final point : [40, 31]	:	[20, 35]
+Current position : [23, 35]
+Path Array : [[23, 33], [23, 34], [23, 35]]
+
+Final point : [40, 31]	:	[23, 35]
+Current position : [23, 31]
+Path Array : [[23, 33], [23, 32], [23, 31]]
+
+Final point : [40, 31]	:	[23, 31]
+##############################Dead point reached##############################
+
+Current position : [19, 35]
+Path Array : [[21, 33], [21, 34], [21, 35], [20, 35], [19, 35]]
+
+Final point : [40, 31]	:	[19, 35]
+Current position : [24, 35]
+Path Array : [[23, 33], [23, 34], [23, 35], [24, 35]]
+
+Final point : [40, 31]	:	[24, 35]
+Current position : [19, 36]
+Path Array : [[21, 33], [21, 34], [21, 35], [20, 35], [19, 35], [19, 36]]
+
+Final point : [40, 31]	:	[19, 36]
+Current position : [25, 35]
+Path Array : [[23, 33], [23, 34], [23, 35], [24, 35], [25, 35]]
+
+Final point : [40, 31]	:	[25, 35]
+##############################Dead point reached##############################
+
+Current position : [19, 37]
+Path Array : [[21, 33], [21, 34], [21, 35], [20, 35], [19, 35], [19, 36], [19, 37]]
+
+Final point : [40, 31]	:	[19, 37]
+##############################Split point reached##############################
+
+Current position : [19, 38]
+Path Array : [[19, 37], [19, 38]]
+
+Final point : [40, 31]	:	[19, 38]
+Current position : [20, 37]
+Path Array : [[19, 37], [20, 37]]
+
+Final point : [40, 31]	:	[20, 37]
+Current position : [19, 39]
+Path Array : [[19, 37], [19, 38], [19, 39]]
+
+Final point : [40, 31]	:	[19, 39]
+Current position : [21, 37]
+Path Array : [[19, 37], [20, 37], [21, 37]]
+
+Final point : [40, 31]	:	[21, 37]
+Current position : [18, 39]
+Path Array : [[19, 37], [19, 38], [19, 39], [18, 39]]
+
+Final point : [40, 31]	:	[18, 39]
+Current position : [21, 38]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38]]
+
+Final point : [40, 31]	:	[21, 38]
+Current position : [17, 39]
+Path Array : [[19, 37], [19, 38], [19, 39], [18, 39], [17, 39]]
+
+Final point : [40, 31]	:	[17, 39]
+Current position : [21, 39]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38], [21, 39]]
+
+Final point : [40, 31]	:	[21, 39]
+Current position : [17, 38]
+Path Array : [[19, 37], [19, 38], [19, 39], [18, 39], [17, 39], [17, 38]]
+
+Final point : [40, 31]	:	[17, 38]
+Current position : [22, 39]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38], [21, 39], [22, 39]]
+
+Final point : [40, 31]	:	[22, 39]
+Current position : [17, 37]
+Path Array : [[19, 37], [19, 38], [19, 39], [18, 39], [17, 39], [17, 38], [17, 37]]
+
+Final point : [40, 31]	:	[17, 37]
+Current position : [23, 39]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38], [21, 39], [22, 39], [23, 39]]
+
+Final point : [40, 31]	:	[23, 39]
+Current position : [17, 36]
+Path Array : [[19, 37], [19, 38], [19, 39], [18, 39], [17, 39], [17, 38], [17, 37], [17, 36]]
+
+Final point : [40, 31]	:	[17, 36]
+Current position : [23, 38]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38], [21, 39], [22, 39], [23, 39], [23, 38]]
+
+Final point : [40, 31]	:	[23, 38]
+Current position : [17, 35]
+Path Array : [[19, 37], [19, 38], [19, 39], [18, 39], [17, 39], [17, 38], [17, 37], [17, 36], [17, 35]]
+
+Final point : [40, 31]	:	[17, 35]
+##############################Dead point reached##############################
+
+Current position : [23, 37]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38], [21, 39], [22, 39], [23, 39], [23, 38], [23, 37]]
+
+Final point : [40, 31]	:	[23, 37]
+Current position : [24, 37]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38], [21, 39], [22, 39], [23, 39], [23, 38], [23, 37], [24, 37]]
+
+Final point : [40, 31]	:	[24, 37]
+Current position : [25, 37]
+Path Array : [[19, 37], [20, 37], [21, 37], [21, 38], [21, 39], [22, 39], [23, 39], [23, 38], [23, 37], [24, 37], [25, 37]]
+
+Final point : [40, 31]	:	[25, 37]
+##############################Split point reached##############################
+
+Current position : [25, 38]
+Path Array : [[25, 37], [25, 38]]
+
+Final point : [40, 31]	:	[25, 38]
+Current position : [26, 37]
+Path Array : [[25, 37], [26, 37]]
+
+Final point : [40, 31]	:	[26, 37]
+Current position : [25, 39]
+Path Array : [[25, 37], [25, 38], [25, 39]]
+
+Final point : [40, 31]	:	[25, 39]
+##############################Dead point reached##############################
+
+Current position : [27, 37]
+Path Array : [[25, 37], [26, 37], [27, 37]]
+
+Final point : [40, 31]	:	[27, 37]
+Current position : [27, 38]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38]]
+
+Final point : [40, 31]	:	[27, 38]
+Current position : [27, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39]]
+
+Final point : [40, 31]	:	[27, 39]
+Current position : [28, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39]]
+
+Final point : [40, 31]	:	[28, 39]
+Current position : [29, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39]]
+
+Final point : [40, 31]	:	[29, 39]
+Current position : [30, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39]]
+
+Final point : [40, 31]	:	[30, 39]
+Current position : [31, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39]]
+
+Final point : [40, 31]	:	[31, 39]
+Current position : [32, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39]]
+
+Final point : [40, 31]	:	[32, 39]
+Current position : [33, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39]]
+
+Final point : [40, 31]	:	[33, 39]
+Current position : [34, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39], [34, 39]]
+
+Final point : [40, 31]	:	[34, 39]
+Current position : [35, 39]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39], [34, 39], [35, 39]]
+
+Final point : [40, 31]	:	[35, 39]
+Current position : [35, 38]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39], [34, 39], [35, 39], [35, 38]]
+
+Final point : [40, 31]	:	[35, 38]
+Current position : [35, 37]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39], [34, 39], [35, 39], [35, 38], [35, 37]]
+
+Final point : [40, 31]	:	[35, 37]
+Current position : [36, 37]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39], [34, 39], [35, 39], [35, 38], [35, 37], [36, 37]]
+
+Final point : [40, 31]	:	[36, 37]
+Current position : [37, 37]
+Path Array : [[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39], [34, 39], [35, 39], [35, 38], [35, 37], [36, 37], [37, 37]]
+
+Final point : [40, 31]	:	[37, 37]
+##############################Split point reached##############################
+
+Current position : [37, 38]
+Path Array : [[37, 37], [37, 38]]
+
+Final point : [40, 31]	:	[37, 38]
+Current position : [38, 37]
+Path Array : [[37, 37], [38, 37]]
+
+Final point : [40, 31]	:	[38, 37]
+Current position : [37, 39]
+Path Array : [[37, 37], [37, 38], [37, 39]]
+
+Final point : [40, 31]	:	[37, 39]
+##############################Dead point reached##############################
+
+Current position : [39, 37]
+Path Array : [[37, 37], [38, 37], [39, 37]]
+
+Final point : [40, 31]	:	[39, 37]
+##############################Split point reached##############################
+
+Current position : [39, 36]
+Path Array : [[39, 37], [39, 36]]
+
+Final point : [40, 31]	:	[39, 36]
+Current position : [39, 38]
+Path Array : [[39, 37], [39, 38]]
+
+Final point : [40, 31]	:	[39, 38]
+Current position : [39, 35]
+Path Array : [[39, 37], [39, 36], [39, 35]]
+
+Final point : [40, 31]	:	[39, 35]
+##############################Split point reached##############################
+
+Current position : [39, 34]
+Path Array : [[39, 35], [39, 34]]
+
+Final point : [40, 31]	:	[39, 34]
+Current position : [39, 39]
+Path Array : [[39, 37], [39, 38], [39, 39]]
+
+Final point : [40, 31]	:	[39, 39]
+##############################Dead point reached##############################
+
+Current position : [39, 33]
+Path Array : [[39, 35], [39, 34], [39, 33]]
+
+Final point : [40, 31]	:	[39, 33]
+##############################Dead point reached##############################
+
+Current position : [38, 35]
+Path Array : [[39, 35], [38, 35]]
+
+Final point : [40, 31]	:	[38, 35]
+Current position : [37, 35]
+Path Array : [[39, 35], [38, 35], [37, 35]]
+
+Final point : [40, 31]	:	[37, 35]
+Current position : [36, 35]
+Path Array : [[39, 35], [38, 35], [37, 35], [36, 35]]
+
+Final point : [40, 31]	:	[36, 35]
+Current position : [35, 35]
+Path Array : [[39, 35], [38, 35], [37, 35], [36, 35], [35, 35]]
+
+Final point : [40, 31]	:	[35, 35]
+Current position : [35, 34]
+Path Array : [[39, 35], [38, 35], [37, 35], [36, 35], [35, 35], [35, 34]]
+
+Final point : [40, 31]	:	[35, 34]
+Current position : [35, 33]
+Path Array : [[39, 35], [38, 35], [37, 35], [36, 35], [35, 35], [35, 34], [35, 33]]
+
+Final point : [40, 31]	:	[35, 33]
+Current position : [35, 32]
+Path Array : [[39, 35], [38, 35], [37, 35], [36, 35], [35, 35], [35, 34], [35, 33], [35, 32]]
+
+Final point : [40, 31]	:	[35, 32]
+Current position : [35, 31]
+Path Array : [[39, 35], [38, 35], [37, 35], [36, 35], [35, 35], [35, 34], [35, 33], [35, 32], [35, 31]]
+
+Final point : [40, 31]	:	[35, 31]
+##############################Split point reached##############################
+
+Current position : [36, 31]
+Path Array : [[35, 31], [36, 31]]
+
+Final point : [40, 31]	:	[36, 31]
+Current position : [34, 31]
+Path Array : [[35, 31], [34, 31]]
+
+Final point : [40, 31]	:	[34, 31]
+Current position : [37, 31]
+Path Array : [[35, 31], [36, 31], [37, 31]]
+
+Final point : [40, 31]	:	[37, 31]
+##############################Split point reached##############################
+
+Current position : [37, 30]
+Path Array : [[37, 31], [37, 30]]
+
+Final point : [40, 31]	:	[37, 30]
+Current position : [33, 31]
+Path Array : [[35, 31], [34, 31], [33, 31]]
+
+Final point : [40, 31]	:	[33, 31]
+Current position : [37, 32]
+Path Array : [[37, 31], [37, 32]]
+
+Final point : [40, 31]	:	[37, 32]
+Current position : [37, 29]
+Path Array : [[37, 31], [37, 30], [37, 29]]
+
+Final point : [40, 31]	:	[37, 29]
+Current position : [32, 31]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31]]
+
+Final point : [40, 31]	:	[32, 31]
+Current position : [37, 33]
+Path Array : [[37, 31], [37, 32], [37, 33]]
+
+Final point : [40, 31]	:	[37, 33]
+##############################Dead point reached##############################
+
+Current position : [31, 31]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31]]
+
+Final point : [40, 31]	:	[31, 31]
+Current position : [36, 29]
+Path Array : [[37, 31], [37, 30], [37, 29], [36, 29]]
+
+Final point : [40, 31]	:	[36, 29]
+Current position : [31, 30]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30]]
+
+Final point : [40, 31]	:	[31, 30]
+Current position : [35, 29]
+Path Array : [[37, 31], [37, 30], [37, 29], [36, 29], [35, 29]]
+
+Final point : [40, 31]	:	[35, 29]
+Current position : [31, 29]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29]]
+
+Final point : [40, 31]	:	[31, 29]
+Current position : [35, 28]
+Path Array : [[37, 31], [37, 30], [37, 29], [36, 29], [35, 29], [35, 28]]
+
+Final point : [40, 31]	:	[35, 28]
+Current position : [30, 29]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29], [30, 29]]
+
+Final point : [40, 31]	:	[30, 29]
+Current position : [35, 27]
+Path Array : [[37, 31], [37, 30], [37, 29], [36, 29], [35, 29], [35, 28], [35, 27]]
+
+Final point : [40, 31]	:	[35, 27]
+Current position : [29, 29]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29], [30, 29], [29, 29]]
+
+Final point : [40, 31]	:	[29, 29]
+Current position : [34, 27]
+Path Array : [[37, 31], [37, 30], [37, 29], [36, 29], [35, 29], [35, 28], [35, 27], [34, 27]]
+
+Final point : [40, 31]	:	[34, 27]
+Current position : [29, 30]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29], [30, 29], [29, 29], [29, 30]]
+
+Final point : [40, 31]	:	[29, 30]
+Current position : [33, 27]
+Path Array : [[37, 31], [37, 30], [37, 29], [36, 29], [35, 29], [35, 28], [35, 27], [34, 27], [33, 27]]
+
+Final point : [40, 31]	:	[33, 27]
+##############################Split point reached##############################
+
+Current position : [33, 28]
+Path Array : [[33, 27], [33, 28]]
+
+Final point : [40, 31]	:	[33, 28]
+Current position : [29, 31]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29], [30, 29], [29, 29], [29, 30], [29, 31]]
+
+Final point : [40, 31]	:	[29, 31]
+Current position : [32, 27]
+Path Array : [[33, 27], [32, 27]]
+
+Final point : [40, 31]	:	[32, 27]
+Current position : [33, 29]
+Path Array : [[33, 27], [33, 28], [33, 29]]
+
+Final point : [40, 31]	:	[33, 29]
+##############################Dead point reached##############################
+
+Current position : [29, 32]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29], [30, 29], [29, 29], [29, 30], [29, 31], [29, 32]]
+
+Final point : [40, 31]	:	[29, 32]
+Current position : [31, 27]
+Path Array : [[33, 27], [32, 27], [31, 27]]
+
+Final point : [40, 31]	:	[31, 27]
+Current position : [29, 33]
+Path Array : [[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29], [30, 29], [29, 29], [29, 30], [29, 31], [29, 32], [29, 33]]
+
+Final point : [40, 31]	:	[29, 33]
+##############################Split point reached##############################
+
+Current position : [28, 33]
+Path Array : [[29, 33], [28, 33]]
+
+Final point : [40, 31]	:	[28, 33]
+Current position : [30, 33]
+Path Array : [[29, 33], [30, 33]]
+
+Final point : [40, 31]	:	[30, 33]
+Current position : [29, 34]
+Path Array : [[29, 33], [29, 34]]
+
+Final point : [40, 31]	:	[29, 34]
+Current position : [31, 26]
+Path Array : [[33, 27], [32, 27], [31, 27], [31, 26]]
+
+Final point : [40, 31]	:	[31, 26]
+Current position : [27, 33]
+Path Array : [[29, 33], [28, 33], [27, 33]]
+
+Final point : [40, 31]	:	[27, 33]
+##############################Split point reached##############################
+
+Current position : [29, 35]
+Path Array : [[29, 33], [29, 34], [29, 35]]
+
+Final point : [40, 31]	:	[29, 35]
+Current position : [26, 33]
+Path Array : [[27, 33], [26, 33]]
+
+Final point : [40, 31]	:	[26, 33]
+Current position : [27, 34]
+Path Array : [[27, 33], [27, 34]]
+
+Final point : [40, 31]	:	[27, 34]
+Current position : [31, 25]
+Path Array : [[33, 27], [32, 27], [31, 27], [31, 26], [31, 25]]
+
+Final point : [40, 31]	:	[31, 25]
+Current position : [31, 33]
+Path Array : [[29, 33], [30, 33], [31, 33]]
+
+Final point : [40, 31]	:	[31, 33]
+Current position : [30, 35]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35]]
+
+Final point : [40, 31]	:	[30, 35]
+Current position : [25, 33]
+Path Array : [[27, 33], [26, 33], [25, 33]]
+
+Final point : [40, 31]	:	[25, 33]
+Current position : [27, 35]
+Path Array : [[27, 33], [27, 34], [27, 35]]
+
+Final point : [40, 31]	:	[27, 35]
+##############################Dead point reached##############################
+
+Current position : [30, 25]
+Path Array : [[33, 27], [32, 27], [31, 27], [31, 26], [31, 25], [30, 25]]
+
+Final point : [40, 31]	:	[30, 25]
+Current position : [32, 33]
+Path Array : [[29, 33], [30, 33], [31, 33], [32, 33]]
+
+Final point : [40, 31]	:	[32, 33]
+Current position : [31, 35]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35]]
+
+Final point : [40, 31]	:	[31, 35]
+Current position : [25, 32]
+Path Array : [[27, 33], [26, 33], [25, 33], [25, 32]]
+
+Final point : [40, 31]	:	[25, 32]
+Current position : [29, 25]
+Path Array : [[33, 27], [32, 27], [31, 27], [31, 26], [31, 25], [30, 25], [29, 25]]
+
+Final point : [40, 31]	:	[29, 25]
+##############################Split point reached##############################
+
+Current position : [32, 35]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35]]
+
+Final point : [40, 31]	:	[32, 35]
+Current position : [25, 31]
+Path Array : [[27, 33], [26, 33], [25, 33], [25, 32], [25, 31]]
+
+Final point : [40, 31]	:	[25, 31]
+Current position : [29, 26]
+Path Array : [[29, 25], [29, 26]]
+
+Final point : [40, 31]	:	[29, 26]
+Current position : [29, 24]
+Path Array : [[29, 25], [29, 24]]
+
+Final point : [40, 31]	:	[29, 24]
+Current position : [33, 33]
+Path Array : [[29, 33], [30, 33], [31, 33], [32, 33], [33, 33]]
+
+Final point : [40, 31]	:	[33, 33]
+##############################Dead point reached##############################
+
+Current position : [26, 31]
+Path Array : [[27, 33], [26, 33], [25, 33], [25, 32], [25, 31], [26, 31]]
+
+Final point : [40, 31]	:	[26, 31]
+Current position : [29, 27]
+Path Array : [[29, 25], [29, 26], [29, 27]]
+
+Final point : [40, 31]	:	[29, 27]
+##############################Dead point reached##############################
+
+Current position : [33, 35]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35], [33, 35]]
+
+Final point : [40, 31]	:	[33, 35]
+Current position : [27, 31]
+Path Array : [[27, 33], [26, 33], [25, 33], [25, 32], [25, 31], [26, 31], [27, 31]]
+
+Final point : [40, 31]	:	[27, 31]
+Current position : [29, 23]
+Path Array : [[29, 25], [29, 24], [29, 23]]
+
+Final point : [40, 31]	:	[29, 23]
+Current position : [33, 36]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35], [33, 35], [33, 36]]
+
+Final point : [40, 31]	:	[33, 36]
+Current position : [27, 30]
+Path Array : [[27, 33], [26, 33], [25, 33], [25, 32], [25, 31], [26, 31], [27, 31], [27, 30]]
+
+Final point : [40, 31]	:	[27, 30]
+Current position : [28, 23]
+Path Array : [[29, 25], [29, 24], [29, 23], [28, 23]]
+
+Final point : [40, 31]	:	[28, 23]
+Current position : [33, 37]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35], [33, 35], [33, 36], [33, 37]]
+
+Final point : [40, 31]	:	[33, 37]
+Current position : [27, 29]
+Path Array : [[27, 33], [26, 33], [25, 33], [25, 32], [25, 31], [26, 31], [27, 31], [27, 30], [27, 29]]
+
+Final point : [40, 31]	:	[27, 29]
+##############################Dead point reached##############################
+
+Current position : [32, 37]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35], [33, 35], [33, 36], [33, 37], [32, 37]]
+
+Final point : [40, 31]	:	[32, 37]
+Current position : [27, 23]
+Path Array : [[29, 25], [29, 24], [29, 23], [28, 23], [27, 23]]
+
+Final point : [40, 31]	:	[27, 23]
+##############################Split point reached##############################
+
+Current position : [27, 24]
+Path Array : [[27, 23], [27, 24]]
+
+Final point : [40, 31]	:	[27, 24]
+Current position : [31, 37]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35], [33, 35], [33, 36], [33, 37], [32, 37], [31, 37]]
+
+Final point : [40, 31]	:	[31, 37]
+Current position : [26, 23]
+Path Array : [[27, 23], [26, 23]]
+
+Final point : [40, 31]	:	[26, 23]
+Current position : [27, 25]
+Path Array : [[27, 23], [27, 24], [27, 25]]
+
+Final point : [40, 31]	:	[27, 25]
+Current position : [30, 37]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35], [33, 35], [33, 36], [33, 37], [32, 37], [31, 37], [30, 37]]
+
+Final point : [40, 31]	:	[30, 37]
+Current position : [25, 23]
+Path Array : [[27, 23], [26, 23], [25, 23]]
+
+Final point : [40, 31]	:	[25, 23]
+Current position : [27, 26]
+Path Array : [[27, 23], [27, 24], [27, 25], [27, 26]]
+
+Final point : [40, 31]	:	[27, 26]
+Current position : [29, 37]
+Path Array : [[29, 33], [29, 34], [29, 35], [30, 35], [31, 35], [32, 35], [33, 35], [33, 36], [33, 37], [32, 37], [31, 37], [30, 37], [29, 37]]
+
+Final point : [40, 31]	:	[29, 37]
+##############################Dead point reached##############################
+
+Current position : [27, 27]
+Path Array : [[27, 23], [27, 24], [27, 25], [27, 26], [27, 27]]
+
+Final point : [40, 31]	:	[27, 27]
+##############################Dead point reached##############################
+
+Current position : [24, 23]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23]]
+
+Final point : [40, 31]	:	[24, 23]
+Current position : [23, 23]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23]]
+
+Final point : [40, 31]	:	[23, 23]
+Current position : [23, 22]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22]]
+
+Final point : [40, 31]	:	[23, 22]
+Current position : [23, 21]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21]]
+
+Final point : [40, 31]	:	[23, 21]
+Current position : [23, 20]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20]]
+
+Final point : [40, 31]	:	[23, 20]
+Current position : [23, 19]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19]]
+
+Final point : [40, 31]	:	[23, 19]
+Current position : [23, 18]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18]]
+
+Final point : [40, 31]	:	[23, 18]
+Current position : [23, 17]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17]]
+
+Final point : [40, 31]	:	[23, 17]
+Current position : [23, 16]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16]]
+
+Final point : [40, 31]	:	[23, 16]
+Current position : [23, 15]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15]]
+
+Final point : [40, 31]	:	[23, 15]
+Current position : [24, 15]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15]]
+
+Final point : [40, 31]	:	[24, 15]
+Current position : [25, 15]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15]]
+
+Final point : [40, 31]	:	[25, 15]
+Current position : [26, 15]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15], [26, 15]]
+
+Final point : [40, 31]	:	[26, 15]
+Current position : [27, 15]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15], [26, 15], [27, 15]]
+
+Final point : [40, 31]	:	[27, 15]
+Current position : [28, 15]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15], [26, 15], [27, 15], [28, 15]]
+
+Final point : [40, 31]	:	[28, 15]
+Current position : [29, 15]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15], [26, 15], [27, 15], [28, 15], [29, 15]]
+
+Final point : [40, 31]	:	[29, 15]
+Current position : [29, 16]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15], [26, 15], [27, 15], [28, 15], [29, 15], [29, 16]]
+
+Final point : [40, 31]	:	[29, 16]
+Current position : [29, 17]
+Path Array : [[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15], [26, 15], [27, 15], [28, 15], [29, 15], [29, 16], [29, 17]]
+
+Final point : [40, 31]	:	[29, 17]
+##############################Split point reached##############################
+
+Current position : [30, 17]
+Path Array : [[29, 17], [30, 17]]
+
+Final point : [40, 31]	:	[30, 17]
+Current position : [29, 18]
+Path Array : [[29, 17], [29, 18]]
+
+Final point : [40, 31]	:	[29, 18]
+Current position : [28, 17]
+Path Array : [[29, 17], [28, 17]]
+
+Final point : [40, 31]	:	[28, 17]
+Current position : [31, 17]
+Path Array : [[29, 17], [30, 17], [31, 17]]
+
+Final point : [40, 31]	:	[31, 17]
+Current position : [29, 19]
+Path Array : [[29, 17], [29, 18], [29, 19]]
+
+Final point : [40, 31]	:	[29, 19]
+Current position : [27, 17]
+Path Array : [[29, 17], [28, 17], [27, 17]]
+
+Final point : [40, 31]	:	[27, 17]
+##############################Dead point reached##############################
+
+Current position : [28, 19]
+Path Array : [[29, 17], [29, 18], [29, 19], [28, 19]]
+
+Final point : [40, 31]	:	[28, 19]
+Current position : [32, 17]
+Path Array : [[29, 17], [30, 17], [31, 17], [32, 17]]
+
+Final point : [40, 31]	:	[32, 17]
+Current position : [27, 19]
+Path Array : [[29, 17], [29, 18], [29, 19], [28, 19], [27, 19]]
+
+Final point : [40, 31]	:	[27, 19]
+Current position : [33, 17]
+Path Array : [[29, 17], [30, 17], [31, 17], [32, 17], [33, 17]]
+
+Final point : [40, 31]	:	[33, 17]
+Current position : [27, 20]
+Path Array : [[29, 17], [29, 18], [29, 19], [28, 19], [27, 19], [27, 20]]
+
+Final point : [40, 31]	:	[27, 20]
+Current position : [33, 16]
+Path Array : [[29, 17], [30, 17], [31, 17], [32, 17], [33, 17], [33, 16]]
+
+Final point : [40, 31]	:	[33, 16]
+Current position : [27, 21]
+Path Array : [[29, 17], [29, 18], [29, 19], [28, 19], [27, 19], [27, 20], [27, 21]]
+
+Final point : [40, 31]	:	[27, 21]
+##############################Split point reached##############################
+
+Current position : [28, 21]
+Path Array : [[27, 21], [28, 21]]
+
+Final point : [40, 31]	:	[28, 21]
+Current position : [33, 15]
+Path Array : [[29, 17], [30, 17], [31, 17], [32, 17], [33, 17], [33, 16], [33, 15]]
+
+Final point : [40, 31]	:	[33, 15]
+##############################Split point reached##############################
+
+Current position : [29, 21]
+Path Array : [[27, 21], [28, 21], [29, 21]]
+
+Final point : [40, 31]	:	[29, 21]
+##############################Dead point reached##############################
+
+Current position : [33, 14]
+Path Array : [[33, 15], [33, 14]]
+
+Final point : [40, 31]	:	[33, 14]
+Current position : [26, 21]
+Path Array : [[27, 21], [26, 21]]
+
+Final point : [40, 31]	:	[26, 21]
+Current position : [32, 15]
+Path Array : [[33, 15], [32, 15]]
+
+Final point : [40, 31]	:	[32, 15]
+Current position : [33, 13]
+Path Array : [[33, 15], [33, 14], [33, 13]]
+
+Final point : [40, 31]	:	[33, 13]
+##############################Split point reached##############################
+
+Current position : [34, 13]
+Path Array : [[33, 13], [34, 13]]
+
+Final point : [40, 31]	:	[34, 13]
+Current position : [25, 21]
+Path Array : [[27, 21], [26, 21], [25, 21]]
+
+Final point : [40, 31]	:	[25, 21]
+Current position : [31, 15]
+Path Array : [[33, 15], [32, 15], [31, 15]]
+
+Final point : [40, 31]	:	[31, 15]
+##############################Dead point reached##############################
+
+Current position : [35, 13]
+Path Array : [[33, 13], [34, 13], [35, 13]]
+
+Final point : [40, 31]	:	[35, 13]
+##############################Split point reached##############################
+
+Current position : [35, 12]
+Path Array : [[35, 13], [35, 12]]
+
+Final point : [40, 31]	:	[35, 12]
+Current position : [25, 20]
+Path Array : [[27, 21], [26, 21], [25, 21], [25, 20]]
+
+Final point : [40, 31]	:	[25, 20]
+Current position : [32, 13]
+Path Array : [[33, 13], [32, 13]]
+
+Final point : [40, 31]	:	[32, 13]
+Current position : [35, 14]
+Path Array : [[35, 13], [35, 14]]
+
+Final point : [40, 31]	:	[35, 14]
+Current position : [35, 11]
+Path Array : [[35, 13], [35, 12], [35, 11]]
+
+Final point : [40, 31]	:	[35, 11]
+Current position : [25, 19]
+Path Array : [[27, 21], [26, 21], [25, 21], [25, 20], [25, 19]]
+
+Final point : [40, 31]	:	[25, 19]
+Current position : [31, 13]
+Path Array : [[33, 13], [32, 13], [31, 13]]
+
+Final point : [40, 31]	:	[31, 13]
+##############################Dead point reached##############################
+
+Current position : [34, 11]
+Path Array : [[35, 13], [35, 12], [35, 11], [34, 11]]
+
+Final point : [40, 31]	:	[34, 11]
+Current position : [25, 18]
+Path Array : [[27, 21], [26, 21], [25, 21], [25, 20], [25, 19], [25, 18]]
+
+Final point : [40, 31]	:	[25, 18]
+Current position : [35, 15]
+Path Array : [[35, 13], [35, 14], [35, 15]]
+
+Final point : [40, 31]	:	[35, 15]
+##############################Dead point reached##############################
+
+Current position : [25, 17]
+Path Array : [[27, 21], [26, 21], [25, 21], [25, 20], [25, 19], [25, 18], [25, 17]]
+
+Final point : [40, 31]	:	[25, 17]
+##############################Dead point reached##############################
+
+Current position : [33, 11]
+Path Array : [[35, 13], [35, 12], [35, 11], [34, 11], [33, 11]]
+
+Final point : [40, 31]	:	[33, 11]
+Current position : [33, 10]
+Path Array : [[35, 13], [35, 12], [35, 11], [34, 11], [33, 11], [33, 10]]
+
+Final point : [40, 31]	:	[33, 10]
+Current position : [33, 9]
+Path Array : [[35, 13], [35, 12], [35, 11], [34, 11], [33, 11], [33, 10], [33, 9]]
+
+Final point : [40, 31]	:	[33, 9]
+Current position : [32, 9]
+Path Array : [[35, 13], [35, 12], [35, 11], [34, 11], [33, 11], [33, 10], [33, 9], [32, 9]]
+
+Final point : [40, 31]	:	[32, 9]
+Current position : [31, 9]
+Path Array : [[35, 13], [35, 12], [35, 11], [34, 11], [33, 11], [33, 10], [33, 9], [32, 9], [31, 9]]
+
+Final point : [40, 31]	:	[31, 9]
+##############################Split point reached##############################
+
+Current position : [31, 10]
+Path Array : [[31, 9], [31, 10]]
+
+Final point : [40, 31]	:	[31, 10]
+Current position : [30, 9]
+Path Array : [[31, 9], [30, 9]]
+
+Final point : [40, 31]	:	[30, 9]
+Current position : [31, 11]
+Path Array : [[31, 9], [31, 10], [31, 11]]
+
+Final point : [40, 31]	:	[31, 11]
+##############################Dead point reached##############################
+
+Current position : [29, 9]
+Path Array : [[31, 9], [30, 9], [29, 9]]
+
+Final point : [40, 31]	:	[29, 9]
+##############################Split point reached##############################
+
+Current position : [29, 8]
+Path Array : [[29, 9], [29, 8]]
+
+Final point : [40, 31]	:	[29, 8]
+Current position : [29, 10]
+Path Array : [[29, 9], [29, 10]]
+
+Final point : [40, 31]	:	[29, 10]
+Current position : [29, 7]
+Path Array : [[29, 9], [29, 8], [29, 7]]
+
+Final point : [40, 31]	:	[29, 7]
+Current position : [29, 11]
+Path Array : [[29, 9], [29, 10], [29, 11]]
+
+Final point : [40, 31]	:	[29, 11]
+Current position : [29, 6]
+Path Array : [[29, 9], [29, 8], [29, 7], [29, 6]]
+
+Final point : [40, 31]	:	[29, 6]
+Current position : [28, 11]
+Path Array : [[29, 9], [29, 10], [29, 11], [28, 11]]
+
+Final point : [40, 31]	:	[28, 11]
+Current position : [29, 5]
+Path Array : [[29, 9], [29, 8], [29, 7], [29, 6], [29, 5]]
+
+Final point : [40, 31]	:	[29, 5]
+##############################Split point reached##############################
+
+Current position : [29, 4]
+Path Array : [[29, 5], [29, 4]]
+
+Final point : [40, 31]	:	[29, 4]
+Current position : [27, 11]
+Path Array : [[29, 9], [29, 10], [29, 11], [28, 11], [27, 11]]
+
+Final point : [40, 31]	:	[27, 11]
+Current position : [30, 5]
+Path Array : [[29, 5], [30, 5]]
+
+Final point : [40, 31]	:	[30, 5]
+Current position : [29, 3]
+Path Array : [[29, 5], [29, 4], [29, 3]]
+
+Final point : [40, 31]	:	[29, 3]
+##############################Split point reached##############################
+
+Current position : [30, 3]
+Path Array : [[29, 3], [30, 3]]
+
+Final point : [40, 31]	:	[30, 3]
+Current position : [29, 2]
+Path Array : [[29, 3], [29, 2]]
+
+Final point : [40, 31]	:	[29, 2]
+Current position : [26, 11]
+Path Array : [[29, 9], [29, 10], [29, 11], [28, 11], [27, 11], [26, 11]]
+
+Final point : [40, 31]	:	[26, 11]
+Current position : [31, 5]
+Path Array : [[29, 5], [30, 5], [31, 5]]
+
+Final point : [40, 31]	:	[31, 5]
+Current position : [28, 3]
+Path Array : [[29, 3], [28, 3]]
+
+Final point : [40, 31]	:	[28, 3]
+Current position : [31, 3]
+Path Array : [[29, 3], [30, 3], [31, 3]]
+
+Final point : [40, 31]	:	[31, 3]
+##############################Split point reached##############################
+
+Current position : [32, 3]
+Path Array : [[31, 3], [32, 3]]
+
+Final point : [40, 31]	:	[32, 3]
+Current position : [31, 2]
+Path Array : [[31, 3], [31, 2]]
+
+Final point : [40, 31]	:	[31, 2]
+Current position : [25, 11]
+Path Array : [[29, 9], [29, 10], [29, 11], [28, 11], [27, 11], [26, 11], [25, 11]]
+
+Final point : [40, 31]	:	[25, 11]
+Current position : [31, 6]
+Path Array : [[29, 5], [30, 5], [31, 5], [31, 6]]
+
+Final point : [40, 31]	:	[31, 6]
+Current position : [27, 3]
+Path Array : [[29, 3], [28, 3], [27, 3]]
+
+Final point : [40, 31]	:	[27, 3]
+Current position : [29, 1]
+Path Array : [[29, 3], [29, 2], [29, 1]]
+
+Final point : [40, 31]	:	[29, 1]
+##############################Dead point reached##############################
+
+Current position : [31, 1]
+Path Array : [[31, 3], [31, 2], [31, 1]]
+
+Final point : [40, 31]	:	[31, 1]
+##############################Dead point reached##############################
+
+Current position : [25, 12]
+Path Array : [[29, 9], [29, 10], [29, 11], [28, 11], [27, 11], [26, 11], [25, 11], [25, 12]]
+
+Final point : [40, 31]	:	[25, 12]
+Current position : [31, 7]
+Path Array : [[29, 5], [30, 5], [31, 5], [31, 6], [31, 7]]
+
+Final point : [40, 31]	:	[31, 7]
+##############################Dead point reached##############################
+
+Current position : [33, 3]
+Path Array : [[31, 3], [32, 3], [33, 3]]
+
+Final point : [40, 31]	:	[33, 3]
+##############################Split point reached##############################
+
+Current position : [33, 4]
+Path Array : [[33, 3], [33, 4]]
+
+Final point : [40, 31]	:	[33, 4]
+Current position : [33, 2]
+Path Array : [[33, 3], [33, 2]]
+
+Final point : [40, 31]	:	[33, 2]
+Current position : [25, 13]
+Path Array : [[29, 9], [29, 10], [29, 11], [28, 11], [27, 11], [26, 11], [25, 11], [25, 12], [25, 13]]
+
+Final point : [40, 31]	:	[25, 13]
+##############################Split point reached##############################
+
+Current position : [34, 3]
+Path Array : [[33, 3], [34, 3]]
+
+Final point : [40, 31]	:	[34, 3]
+Current position : [33, 5]
+Path Array : [[33, 3], [33, 4], [33, 5]]
+
+Final point : [40, 31]	:	[33, 5]
+Current position : [33, 1]
+Path Array : [[33, 3], [33, 2], [33, 1]]
+
+Final point : [40, 31]	:	[33, 1]
+##############################Dead point reached##############################
+
+Current position : [26, 13]
+Path Array : [[25, 13], [26, 13]]
+
+Final point : [40, 31]	:	[26, 13]
+Current position : [27, 4]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4]]
+
+Final point : [40, 31]	:	[27, 4]
+Current position : [35, 3]
+Path Array : [[33, 3], [34, 3], [35, 3]]
+
+Final point : [40, 31]	:	[35, 3]
+##############################Split point reached##############################
+
+Current position : [24, 13]
+Path Array : [[25, 13], [24, 13]]
+
+Final point : [40, 31]	:	[24, 13]
+Current position : [27, 13]
+Path Array : [[25, 13], [26, 13], [27, 13]]
+
+Final point : [40, 31]	:	[27, 13]
+Current position : [36, 3]
+Path Array : [[35, 3], [36, 3]]
+
+Final point : [40, 31]	:	[36, 3]
+Current position : [35, 4]
+Path Array : [[35, 3], [35, 4]]
+
+Final point : [40, 31]	:	[35, 4]
+Current position : [35, 2]
+Path Array : [[35, 3], [35, 2]]
+
+Final point : [40, 31]	:	[35, 2]
+Current position : [27, 5]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5]]
+
+Final point : [40, 31]	:	[27, 5]
+Current position : [33, 6]
+Path Array : [[33, 3], [33, 4], [33, 5], [33, 6]]
+
+Final point : [40, 31]	:	[33, 6]
+Current position : [23, 13]
+Path Array : [[25, 13], [24, 13], [23, 13]]
+
+Final point : [40, 31]	:	[23, 13]
+Current position : [28, 13]
+Path Array : [[25, 13], [26, 13], [27, 13], [28, 13]]
+
+Final point : [40, 31]	:	[28, 13]
+Current position : [37, 3]
+Path Array : [[35, 3], [36, 3], [37, 3]]
+
+Final point : [40, 31]	:	[37, 3]
+Current position : [35, 5]
+Path Array : [[35, 3], [35, 4], [35, 5]]
+
+Final point : [40, 31]	:	[35, 5]
+Current position : [35, 1]
+Path Array : [[35, 3], [35, 2], [35, 1]]
+
+Final point : [40, 31]	:	[35, 1]
+Current position : [26, 5]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5]]
+
+Final point : [40, 31]	:	[26, 5]
+Current position : [33, 7]
+Path Array : [[33, 3], [33, 4], [33, 5], [33, 6], [33, 7]]
+
+Final point : [40, 31]	:	[33, 7]
+##############################Dead point reached##############################
+
+Current position : [29, 13]
+Path Array : [[25, 13], [26, 13], [27, 13], [28, 13], [29, 13]]
+
+Final point : [40, 31]	:	[29, 13]
+##############################Dead point reached##############################
+
+Current position : [35, 6]
+Path Array : [[35, 3], [35, 4], [35, 5], [35, 6]]
+
+Final point : [40, 31]	:	[35, 6]
+Current position : [36, 1]
+Path Array : [[35, 3], [35, 2], [35, 1], [36, 1]]
+
+Final point : [40, 31]	:	[36, 1]
+Current position : [25, 5]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5]]
+
+Final point : [40, 31]	:	[25, 5]
+Current position : [23, 12]
+Path Array : [[25, 13], [24, 13], [23, 13], [23, 12]]
+
+Final point : [40, 31]	:	[23, 12]
+Current position : [38, 3]
+Path Array : [[35, 3], [36, 3], [37, 3], [38, 3]]
+
+Final point : [40, 31]	:	[38, 3]
+Current position : [35, 7]
+Path Array : [[35, 3], [35, 4], [35, 5], [35, 6], [35, 7]]
+
+Final point : [40, 31]	:	[35, 7]
+##############################Dead point reached##############################
+
+Current position : [25, 4]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5], [25, 4]]
+
+Final point : [40, 31]	:	[25, 4]
+Current position : [23, 11]
+Path Array : [[25, 13], [24, 13], [23, 13], [23, 12], [23, 11]]
+
+Final point : [40, 31]	:	[23, 11]
+Current position : [39, 3]
+Path Array : [[35, 3], [36, 3], [37, 3], [38, 3], [39, 3]]
+
+Final point : [40, 31]	:	[39, 3]
+##############################Split point reached##############################
+
+Current position : [39, 4]
+Path Array : [[39, 3], [39, 4]]
+
+Final point : [40, 31]	:	[39, 4]
+Current position : [39, 2]
+Path Array : [[39, 3], [39, 2]]
+
+Final point : [40, 31]	:	[39, 2]
+Current position : [25, 3]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5], [25, 4], [25, 3]]
+
+Final point : [40, 31]	:	[25, 3]
+Current position : [22, 11]
+Path Array : [[25, 13], [24, 13], [23, 13], [23, 12], [23, 11], [22, 11]]
+
+Final point : [40, 31]	:	[22, 11]
+Current position : [37, 1]
+Path Array : [[35, 3], [35, 2], [35, 1], [36, 1], [37, 1]]
+
+Final point : [40, 31]	:	[37, 1]
+##############################Dead point reached##############################
+
+Current position : [39, 1]
+Path Array : [[39, 3], [39, 2], [39, 1]]
+
+Final point : [40, 31]	:	[39, 1]
+##############################Dead point reached##############################
+
+Current position : [24, 3]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5], [25, 4], [25, 3], [24, 3]]
+
+Final point : [40, 31]	:	[24, 3]
+Current position : [21, 11]
+Path Array : [[25, 13], [24, 13], [23, 13], [23, 12], [23, 11], [22, 11], [21, 11]]
+
+Final point : [40, 31]	:	[21, 11]
+Current position : [39, 5]
+Path Array : [[39, 3], [39, 4], [39, 5]]
+
+Final point : [40, 31]	:	[39, 5]
+Current position : [23, 3]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5], [25, 4], [25, 3], [24, 3], [23, 3]]
+
+Final point : [40, 31]	:	[23, 3]
+Current position : [21, 12]
+Path Array : [[25, 13], [24, 13], [23, 13], [23, 12], [23, 11], [22, 11], [21, 11], [21, 12]]
+
+Final point : [40, 31]	:	[21, 12]
+Current position : [38, 5]
+Path Array : [[39, 3], [39, 4], [39, 5], [38, 5]]
+
+Final point : [40, 31]	:	[38, 5]
+Current position : [23, 2]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5], [25, 4], [25, 3], [24, 3], [23, 3], [23, 2]]
+
+Final point : [40, 31]	:	[23, 2]
+Current position : [21, 13]
+Path Array : [[25, 13], [24, 13], [23, 13], [23, 12], [23, 11], [22, 11], [21, 11], [21, 12], [21, 13]]
+
+Final point : [40, 31]	:	[21, 13]
+##############################Split point reached##############################
+
+Current position : [20, 13]
+Path Array : [[21, 13], [20, 13]]
+
+Final point : [40, 31]	:	[20, 13]
+Current position : [21, 14]
+Path Array : [[21, 13], [21, 14]]
+
+Final point : [40, 31]	:	[21, 14]
+Current position : [23, 1]
+Path Array : [[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5], [25, 4], [25, 3], [24, 3], [23, 3], [23, 2], [23, 1]]
+
+Final point : [40, 31]	:	[23, 1]
+##############################Split point reached##############################
+
+Current position : [19, 13]
+Path Array : [[21, 13], [20, 13], [19, 13]]
+
+Final point : [40, 31]	:	[19, 13]
+##############################Split point reached##############################
+
+Current position : [22, 1]
+Path Array : [[23, 1], [22, 1]]
+
+Final point : [40, 31]	:	[22, 1]
+Current position : [24, 1]
+Path Array : [[23, 1], [24, 1]]
+
+Final point : [40, 31]	:	[24, 1]
+Current position : [19, 14]
+Path Array : [[19, 13], [19, 14]]
+
+Final point : [40, 31]	:	[19, 14]
+Current position : [19, 12]
+Path Array : [[19, 13], [19, 12]]
+
+Final point : [40, 31]	:	[19, 12]
+Current position : [37, 5]
+Path Array : [[39, 3], [39, 4], [39, 5], [38, 5], [37, 5]]
+
+Final point : [40, 31]	:	[37, 5]
+Current position : [21, 15]
+Path Array : [[21, 13], [21, 14], [21, 15]]
+
+Final point : [40, 31]	:	[21, 15]
+##############################Dead point reached##############################
+
+Current position : [25, 1]
+Path Array : [[23, 1], [24, 1], [25, 1]]
+
+Final point : [40, 31]	:	[25, 1]
+Current position : [19, 15]
+Path Array : [[19, 13], [19, 14], [19, 15]]
+
+Final point : [40, 31]	:	[19, 15]
+##############################Dead point reached##############################
+
+Current position : [37, 6]
+Path Array : [[39, 3], [39, 4], [39, 5], [38, 5], [37, 5], [37, 6]]
+
+Final point : [40, 31]	:	[37, 6]
+Current position : [21, 1]
+Path Array : [[23, 1], [22, 1], [21, 1]]
+
+Final point : [40, 31]	:	[21, 1]
+##############################Split point reached##############################
+
+Current position : [19, 11]
+Path Array : [[19, 13], [19, 12], [19, 11]]
+
+Final point : [40, 31]	:	[19, 11]
+##############################Dead point reached##############################
+
+Current position : [21, 2]
+Path Array : [[21, 1], [21, 2]]
+
+Final point : [40, 31]	:	[21, 2]
+Current position : [37, 7]
+Path Array : [[39, 3], [39, 4], [39, 5], [38, 5], [37, 5], [37, 6], [37, 7]]
+
+Final point : [40, 31]	:	[37, 7]
+Current position : [26, 1]
+Path Array : [[23, 1], [24, 1], [25, 1], [26, 1]]
+
+Final point : [40, 31]	:	[26, 1]
+Current position : [20, 1]
+Path Array : [[21, 1], [20, 1]]
+
+Final point : [40, 31]	:	[20, 1]
+Current position : [21, 3]
+Path Array : [[21, 1], [21, 2], [21, 3]]
+
+Final point : [40, 31]	:	[21, 3]
+Current position : [37, 8]
+Path Array : [[39, 3], [39, 4], [39, 5], [38, 5], [37, 5], [37, 6], [37, 7], [37, 8]]
+
+Final point : [40, 31]	:	[37, 8]
+Current position : [27, 1]
+Path Array : [[23, 1], [24, 1], [25, 1], [26, 1], [27, 1]]
+
+Final point : [40, 31]	:	[27, 1]
+##############################Dead point reached##############################
+
+Current position : [21, 4]
+Path Array : [[21, 1], [21, 2], [21, 3], [21, 4]]
+
+Final point : [40, 31]	:	[21, 4]
+Current position : [37, 9]
+Path Array : [[39, 3], [39, 4], [39, 5], [38, 5], [37, 5], [37, 6], [37, 7], [37, 8], [37, 9]]
+
+Final point : [40, 31]	:	[37, 9]
+##############################Split point reached##############################
+
+Current position : [21, 5]
+Path Array : [[21, 1], [21, 2], [21, 3], [21, 4], [21, 5]]
+
+Final point : [40, 31]	:	[21, 5]
+Current position : [36, 9]
+Path Array : [[37, 9], [36, 9]]
+
+Final point : [40, 31]	:	[36, 9]
+Current position : [38, 9]
+Path Array : [[37, 9], [38, 9]]
+
+Final point : [40, 31]	:	[38, 9]
+Current position : [19, 1]
+Path Array : [[21, 1], [20, 1], [19, 1]]
+
+Final point : [40, 31]	:	[19, 1]
+##############################Dead point reached##############################
+
+Current position : [35, 9]
+Path Array : [[37, 9], [36, 9], [35, 9]]
+
+Final point : [40, 31]	:	[35, 9]
+##############################Dead point reached##############################
+
+Current position : [22, 5]
+Path Array : [[21, 1], [21, 2], [21, 3], [21, 4], [21, 5], [22, 5]]
+
+Final point : [40, 31]	:	[22, 5]
+Current position : [39, 9]
+Path Array : [[37, 9], [38, 9], [39, 9]]
+
+Final point : [40, 31]	:	[39, 9]
+##############################Split point reached##############################
+
+Current position : [39, 8]
+Path Array : [[39, 9], [39, 8]]
+
+Final point : [40, 31]	:	[39, 8]
+Current position : [23, 5]
+Path Array : [[21, 1], [21, 2], [21, 3], [21, 4], [21, 5], [22, 5], [23, 5]]
+
+Final point : [40, 31]	:	[23, 5]
+Current position : [39, 10]
+Path Array : [[39, 9], [39, 10]]
+
+Final point : [40, 31]	:	[39, 10]
+Current position : [39, 7]
+Path Array : [[39, 9], [39, 8], [39, 7]]
+
+Final point : [40, 31]	:	[39, 7]
+##############################Dead point reached##############################
+
+Current position : [23, 6]
+Path Array : [[21, 1], [21, 2], [21, 3], [21, 4], [21, 5], [22, 5], [23, 5], [23, 6]]
+
+Final point : [40, 31]	:	[23, 6]
+Current position : [39, 11]
+Path Array : [[39, 9], [39, 10], [39, 11]]
+
+Final point : [40, 31]	:	[39, 11]
+##############################Split point reached##############################
+
+Current position : [39, 12]
+Path Array : [[39, 11], [39, 12]]
+
+Final point : [40, 31]	:	[39, 12]
+Current position : [23, 7]
+Path Array : [[21, 1], [21, 2], [21, 3], [21, 4], [21, 5], [22, 5], [23, 5], [23, 6], [23, 7]]
+
+Final point : [40, 31]	:	[23, 7]
+##############################Split point reached##############################
+
+Current position : [39, 13]
+Path Array : [[39, 11], [39, 12], [39, 13]]
+
+Final point : [40, 31]	:	[39, 13]
+##############################Split point reached##############################
+
+Current position : [23, 8]
+Path Array : [[23, 7], [23, 8]]
+
+Final point : [40, 31]	:	[23, 8]
+Current position : [38, 13]
+Path Array : [[39, 13], [38, 13]]
+
+Final point : [40, 31]	:	[38, 13]
+Current position : [39, 14]
+Path Array : [[39, 13], [39, 14]]
+
+Final point : [40, 31]	:	[39, 14]
+Current position : [38, 11]
+Path Array : [[39, 11], [38, 11]]
+
+Final point : [40, 31]	:	[38, 11]
+Current position : [24, 7]
+Path Array : [[23, 7], [24, 7]]
+
+Final point : [40, 31]	:	[24, 7]
+Current position : [23, 9]
+Path Array : [[23, 7], [23, 8], [23, 9]]
+
+Final point : [40, 31]	:	[23, 9]
+Current position : [37, 13]
+Path Array : [[39, 13], [38, 13], [37, 13]]
+
+Final point : [40, 31]	:	[37, 13]
+##############################Dead point reached##############################
+
+Current position : [37, 11]
+Path Array : [[39, 11], [38, 11], [37, 11]]
+
+Final point : [40, 31]	:	[37, 11]
+##############################Dead point reached##############################
+
+Current position : [22, 9]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9]]
+
+Final point : [40, 31]	:	[22, 9]
+Current position : [39, 15]
+Path Array : [[39, 13], [39, 14], [39, 15]]
+
+Final point : [40, 31]	:	[39, 15]
+##############################Split point reached##############################
+
+Current position : [39, 16]
+Path Array : [[39, 15], [39, 16]]
+
+Final point : [40, 31]	:	[39, 16]
+Current position : [25, 7]
+Path Array : [[23, 7], [24, 7], [25, 7]]
+
+Final point : [40, 31]	:	[25, 7]
+##############################Split point reached##############################
+
+Current position : [38, 15]
+Path Array : [[39, 15], [38, 15]]
+
+Final point : [40, 31]	:	[38, 15]
+Current position : [39, 17]
+Path Array : [[39, 15], [39, 16], [39, 17]]
+
+Final point : [40, 31]	:	[39, 17]
+Current position : [26, 7]
+Path Array : [[25, 7], [26, 7]]
+
+Final point : [40, 31]	:	[26, 7]
+Current position : [25, 8]
+Path Array : [[25, 7], [25, 8]]
+
+Final point : [40, 31]	:	[25, 8]
+Current position : [21, 9]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9], [21, 9]]
+
+Final point : [40, 31]	:	[21, 9]
+Current position : [37, 15]
+Path Array : [[39, 15], [38, 15], [37, 15]]
+
+Final point : [40, 31]	:	[37, 15]
+##############################Dead point reached##############################
+
+Current position : [27, 7]
+Path Array : [[25, 7], [26, 7], [27, 7]]
+
+Final point : [40, 31]	:	[27, 7]
+Current position : [25, 9]
+Path Array : [[25, 7], [25, 8], [25, 9]]
+
+Final point : [40, 31]	:	[25, 9]
+##############################Dead point reached##############################
+
+Current position : [21, 8]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9], [21, 9], [21, 8]]
+
+Final point : [40, 31]	:	[21, 8]
+Current position : [38, 17]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17]]
+
+Final point : [40, 31]	:	[38, 17]
+Current position : [27, 8]
+Path Array : [[25, 7], [26, 7], [27, 7], [27, 8]]
+
+Final point : [40, 31]	:	[27, 8]
+Current position : [21, 7]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9], [21, 9], [21, 8], [21, 7]]
+
+Final point : [40, 31]	:	[21, 7]
+Current position : [37, 17]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17], [37, 17]]
+
+Final point : [40, 31]	:	[37, 17]
+Current position : [27, 9]
+Path Array : [[25, 7], [26, 7], [27, 7], [27, 8], [27, 9]]
+
+Final point : [40, 31]	:	[27, 9]
+##############################Dead point reached##############################
+
+Current position : [20, 7]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9], [21, 9], [21, 8], [21, 7], [20, 7]]
+
+Final point : [40, 31]	:	[20, 7]
+Current position : [36, 17]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17], [37, 17], [36, 17]]
+
+Final point : [40, 31]	:	[36, 17]
+Current position : [19, 7]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9], [21, 9], [21, 8], [21, 7], [20, 7], [19, 7]]
+
+Final point : [40, 31]	:	[19, 7]
+Current position : [35, 17]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17], [37, 17], [36, 17], [35, 17]]
+
+Final point : [40, 31]	:	[35, 17]
+Current position : [19, 6]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9], [21, 9], [21, 8], [21, 7], [20, 7], [19, 7], [19, 6]]
+
+Final point : [40, 31]	:	[19, 6]
+Current position : [35, 18]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17], [37, 17], [36, 17], [35, 17], [35, 18]]
+
+Final point : [40, 31]	:	[35, 18]
+Current position : [19, 5]
+Path Array : [[23, 7], [23, 8], [23, 9], [22, 9], [21, 9], [21, 8], [21, 7], [20, 7], [19, 7], [19, 6], [19, 5]]
+
+Final point : [40, 31]	:	[19, 5]
+##############################Split point reached##############################
+
+Current position : [18, 5]
+Path Array : [[19, 5], [18, 5]]
+
+Final point : [40, 31]	:	[18, 5]
+Current position : [19, 4]
+Path Array : [[19, 5], [19, 4]]
+
+Final point : [40, 31]	:	[19, 4]
+Current position : [35, 19]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17], [37, 17], [36, 17], [35, 17], [35, 18], [35, 19]]
+
+Final point : [40, 31]	:	[35, 19]
+Current position : [17, 5]
+Path Array : [[19, 5], [18, 5], [17, 5]]
+
+Final point : [40, 31]	:	[17, 5]
+##############################Split point reached##############################
+
+Current position : [17, 6]
+Path Array : [[17, 5], [17, 6]]
+
+Final point : [40, 31]	:	[17, 6]
+Current position : [17, 4]
+Path Array : [[17, 5], [17, 4]]
+
+Final point : [40, 31]	:	[17, 4]
+Current position : [34, 19]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17], [37, 17], [36, 17], [35, 17], [35, 18], [35, 19], [34, 19]]
+
+Final point : [40, 31]	:	[34, 19]
+Current position : [19, 3]
+Path Array : [[19, 5], [19, 4], [19, 3]]
+
+Final point : [40, 31]	:	[19, 3]
+##############################Dead point reached##############################
+
+Current position : [17, 3]
+Path Array : [[17, 5], [17, 4], [17, 3]]
+
+Final point : [40, 31]	:	[17, 3]
+##############################Dead point reached##############################
+
+Current position : [33, 19]
+Path Array : [[39, 15], [39, 16], [39, 17], [38, 17], [37, 17], [36, 17], [35, 17], [35, 18], [35, 19], [34, 19], [33, 19]]
+
+Final point : [40, 31]	:	[33, 19]
+##############################Split point reached##############################
+
+Current position : [32, 19]
+Path Array : [[33, 19], [32, 19]]
+
+Final point : [40, 31]	:	[32, 19]
+Current position : [33, 20]
+Path Array : [[33, 19], [33, 20]]
+
+Final point : [40, 31]	:	[33, 20]
+Current position : [17, 7]
+Path Array : [[17, 5], [17, 6], [17, 7]]
+
+Final point : [40, 31]	:	[17, 7]
+Current position : [31, 19]
+Path Array : [[33, 19], [32, 19], [31, 19]]
+
+Final point : [40, 31]	:	[31, 19]
+Current position : [33, 21]
+Path Array : [[33, 19], [33, 20], [33, 21]]
+
+Final point : [40, 31]	:	[33, 21]
+Current position : [17, 8]
+Path Array : [[17, 5], [17, 6], [17, 7], [17, 8]]
+
+Final point : [40, 31]	:	[17, 8]
+Current position : [31, 20]
+Path Array : [[33, 19], [32, 19], [31, 19], [31, 20]]
+
+Final point : [40, 31]	:	[31, 20]
+Current position : [34, 21]
+Path Array : [[33, 19], [33, 20], [33, 21], [34, 21]]
+
+Final point : [40, 31]	:	[34, 21]
+Current position : [17, 9]
+Path Array : [[17, 5], [17, 6], [17, 7], [17, 8], [17, 9]]
+
+Final point : [40, 31]	:	[17, 9]
+##############################Split point reached##############################
+
+Current position : [35, 21]
+Path Array : [[33, 19], [33, 20], [33, 21], [34, 21], [35, 21]]
+
+Final point : [40, 31]	:	[35, 21]
+Current position : [18, 9]
+Path Array : [[17, 9], [18, 9]]
+
+Final point : [40, 31]	:	[18, 9]
+Current position : [17, 10]
+Path Array : [[17, 9], [17, 10]]
+
+Final point : [40, 31]	:	[17, 10]
+Current position : [31, 21]
+Path Array : [[33, 19], [32, 19], [31, 19], [31, 20], [31, 21]]
+
+Final point : [40, 31]	:	[31, 21]
+##############################Dead point reached##############################
+
+Current position : [19, 9]
+Path Array : [[17, 9], [18, 9], [19, 9]]
+
+Final point : [40, 31]	:	[19, 9]
+##############################Dead point reached##############################
+
+Current position : [35, 22]
+Path Array : [[33, 19], [33, 20], [33, 21], [34, 21], [35, 21], [35, 22]]
+
+Final point : [40, 31]	:	[35, 22]
+Current position : [17, 11]
+Path Array : [[17, 9], [17, 10], [17, 11]]
+
+Final point : [40, 31]	:	[17, 11]
+Current position : [35, 23]
+Path Array : [[33, 19], [33, 20], [33, 21], [34, 21], [35, 21], [35, 22], [35, 23]]
+
+Final point : [40, 31]	:	[35, 23]
+##############################Split point reached##############################
+
+Current position : [36, 23]
+Path Array : [[35, 23], [36, 23]]
+
+Final point : [40, 31]	:	[36, 23]
+Current position : [35, 24]
+Path Array : [[35, 23], [35, 24]]
+
+Final point : [40, 31]	:	[35, 24]
+Current position : [17, 12]
+Path Array : [[17, 9], [17, 10], [17, 11], [17, 12]]
+
+Final point : [40, 31]	:	[17, 12]
+Current position : [37, 23]
+Path Array : [[35, 23], [36, 23], [37, 23]]
+
+Final point : [40, 31]	:	[37, 23]
+Current position : [35, 25]
+Path Array : [[35, 23], [35, 24], [35, 25]]
+
+Final point : [40, 31]	:	[35, 25]
+Current position : [17, 13]
+Path Array : [[17, 9], [17, 10], [17, 11], [17, 12], [17, 13]]
+
+Final point : [40, 31]	:	[17, 13]
+##############################Split point reached##############################
+
+Current position : [34, 25]
+Path Array : [[35, 23], [35, 24], [35, 25], [34, 25]]
+
+Final point : [40, 31]	:	[34, 25]
+Current position : [16, 13]
+Path Array : [[17, 13], [16, 13]]
+
+Final point : [40, 31]	:	[16, 13]
+Current position : [17, 14]
+Path Array : [[17, 13], [17, 14]]
+
+Final point : [40, 31]	:	[17, 14]
+Current position : [38, 23]
+Path Array : [[35, 23], [36, 23], [37, 23], [38, 23]]
+
+Final point : [40, 31]	:	[38, 23]
+Current position : [33, 25]
+Path Array : [[35, 23], [35, 24], [35, 25], [34, 25], [33, 25]]
+
+Final point : [40, 31]	:	[33, 25]
+Current position : [15, 13]
+Path Array : [[17, 13], [16, 13], [15, 13]]
+
+Final point : [40, 31]	:	[15, 13]
+Current position : [17, 15]
+Path Array : [[17, 13], [17, 14], [17, 15]]
+
+Final point : [40, 31]	:	[17, 15]
+##############################Dead point reached##############################
+
+Current position : [39, 23]
+Path Array : [[35, 23], [36, 23], [37, 23], [38, 23], [39, 23]]
+
+Final point : [40, 31]	:	[39, 23]
+##############################Split point reached##############################
+
+Current position : [15, 14]
+Path Array : [[17, 13], [16, 13], [15, 13], [15, 14]]
+
+Final point : [40, 31]	:	[15, 14]
+Current position : [39, 24]
+Path Array : [[39, 23], [39, 24]]
+
+Final point : [40, 31]	:	[39, 24]
+Current position : [39, 22]
+Path Array : [[39, 23], [39, 22]]
+
+Final point : [40, 31]	:	[39, 22]
+Current position : [33, 24]
+Path Array : [[35, 23], [35, 24], [35, 25], [34, 25], [33, 25], [33, 24]]
+
+Final point : [40, 31]	:	[33, 24]
+Current position : [15, 15]
+Path Array : [[17, 13], [16, 13], [15, 13], [15, 14], [15, 15]]
+
+Final point : [40, 31]	:	[15, 15]
+##############################Split point reached##############################
+
+Current position : [39, 21]
+Path Array : [[39, 23], [39, 22], [39, 21]]
+
+Final point : [40, 31]	:	[39, 21]
+##############################Split point reached##############################
+
+Current position : [15, 16]
+Path Array : [[15, 15], [15, 16]]
+
+Final point : [40, 31]	:	[15, 16]
+Current position : [38, 21]
+Path Array : [[39, 21], [38, 21]]
+
+Final point : [40, 31]	:	[38, 21]
+Current position : [39, 20]
+Path Array : [[39, 21], [39, 20]]
+
+Final point : [40, 31]	:	[39, 20]
+Current position : [33, 23]
+Path Array : [[35, 23], [35, 24], [35, 25], [34, 25], [33, 25], [33, 24], [33, 23]]
+
+Final point : [40, 31]	:	[33, 23]
+Current position : [39, 25]
+Path Array : [[39, 23], [39, 24], [39, 25]]
+
+Final point : [40, 31]	:	[39, 25]
+##############################Split point reached##############################
+
+Current position : [15, 17]
+Path Array : [[15, 15], [15, 16], [15, 17]]
+
+Final point : [40, 31]	:	[15, 17]
+Current position : [37, 21]
+Path Array : [[39, 21], [38, 21], [37, 21]]
+
+Final point : [40, 31]	:	[37, 21]
+##############################Dead point reached##############################
+
+Current position : [38, 25]
+Path Array : [[39, 25], [38, 25]]
+
+Final point : [40, 31]	:	[38, 25]
+Current position : [39, 26]
+Path Array : [[39, 25], [39, 26]]
+
+Final point : [40, 31]	:	[39, 26]
+Current position : [32, 23]
+Path Array : [[35, 23], [35, 24], [35, 25], [34, 25], [33, 25], [33, 24], [33, 23], [32, 23]]
+
+Final point : [40, 31]	:	[32, 23]
+Current position : [14, 15]
+Path Array : [[15, 15], [14, 15]]
+
+Final point : [40, 31]	:	[14, 15]
+Current position : [15, 18]
+Path Array : [[15, 15], [15, 16], [15, 17], [15, 18]]
+
+Final point : [40, 31]	:	[15, 18]
+Current position : [39, 19]
+Path Array : [[39, 21], [39, 20], [39, 19]]
+
+Final point : [40, 31]	:	[39, 19]
+Current position : [37, 25]
+Path Array : [[39, 25], [38, 25], [37, 25]]
+
+Final point : [40, 31]	:	[37, 25]
+##############################Dead point reached##############################
+
+Current position : [31, 23]
+Path Array : [[35, 23], [35, 24], [35, 25], [34, 25], [33, 25], [33, 24], [33, 23], [32, 23], [31, 23]]
+
+Final point : [40, 31]	:	[31, 23]
+##############################Dead point reached##############################
+
+Current position : [15, 19]
+Path Array : [[15, 15], [15, 16], [15, 17], [15, 18], [15, 19]]
+
+Final point : [40, 31]	:	[15, 19]
+Current position : [38, 19]
+Path Array : [[39, 21], [39, 20], [39, 19], [38, 19]]
+
+Final point : [40, 31]	:	[38, 19]
+Current position : [39, 27]
+Path Array : [[39, 25], [39, 26], [39, 27]]
+
+Final point : [40, 31]	:	[39, 27]
+##############################Split point reached##############################
+
+Current position : [39, 28]
+Path Array : [[39, 27], [39, 28]]
+
+Final point : [40, 31]	:	[39, 28]
+Current position : [13, 15]
+Path Array : [[15, 15], [14, 15], [13, 15]]
+
+Final point : [40, 31]	:	[13, 15]
+##############################Dead point reached##############################
+
+Current position : [37, 19]
+Path Array : [[39, 21], [39, 20], [39, 19], [38, 19], [37, 19]]
+
+Final point : [40, 31]	:	[37, 19]
+##############################Dead point reached##############################
+
+Current position : [39, 29]
+Path Array : [[39, 27], [39, 28], [39, 29]]
+
+Final point : [40, 31]	:	[39, 29]
+Current position : [15, 20]
+Path Array : [[15, 15], [15, 16], [15, 17], [15, 18], [15, 19], [15, 20]]
+
+Final point : [40, 31]	:	[15, 20]
+Current position : [38, 27]
+Path Array : [[39, 27], [38, 27]]
+
+Final point : [40, 31]	:	[38, 27]
+Current position : [39, 30]
+Path Array : [[39, 27], [39, 28], [39, 29], [39, 30]]
+
+Final point : [40, 31]	:	[39, 30]
+Current position : [15, 21]
+Path Array : [[15, 15], [15, 16], [15, 17], [15, 18], [15, 19], [15, 20], [15, 21]]
+
+Final point : [40, 31]	:	[15, 21]
+Current position : [37, 27]
+Path Array : [[39, 27], [38, 27], [37, 27]]
+
+Final point : [40, 31]	:	[37, 27]
+##############################Dead point reached##############################
+
+Current position : [15, 22]
+Path Array : [[15, 15], [15, 16], [15, 17], [15, 18], [15, 19], [15, 20], [15, 21], [15, 22]]
+
+Final point : [40, 31]	:	[15, 22]
+Current position : [39, 31]
+Path Array : [[39, 27], [39, 28], [39, 29], [39, 30], [39, 31]]
+
+Final point : [40, 31]	:	[39, 31]
+Current position : [15, 23]
+Path Array : [[15, 15], [15, 16], [15, 17], [15, 18], [15, 19], [15, 20], [15, 21], [15, 22], [15, 23]]
+
+Final point : [40, 31]	:	[15, 23]
+Current position : [40, 31]
+Path Array : [[39, 27], [39, 28], [39, 29], [39, 30], [39, 31], [40, 31]]
+
+Final point : [40, 31]	:	[40, 31]
+Potentials
+[[0, 3], [1, 3], [1, 4], [1, 5], [1, 6], [1, 7], [1, 8], [1, 9]]
+[[1, 9], [2, 9], [3, 9]]
+[[1, 9], [1, 10], [1, 11], [1, 12], [1, 13]]
+[[3, 9], [4, 9], [5, 9], [6, 9], [7, 9], [8, 9], [9, 9], [9, 8], [9, 7]]
+[[1, 13], [1, 14], [1, 15], [1, 16], [1, 17], [1, 18], [1, 19]]
+[[1, 19], [2, 19], [3, 19], [3, 18], [3, 17]]
+[[9, 7], [9, 6], [9, 5], [9, 4], [9, 3], [9, 2], [9, 1]]
+[[9, 1], [10, 1], [11, 1]]
+[[9, 1], [8, 1], [7, 1], [7, 2], [7, 3], [7, 4], [7, 5], [6, 5], [5, 5]]
+[[11, 1], [11, 2], [11, 3], [11, 4], [11, 5], [12, 5], [13, 5], [13, 4], [13, 3], [14, 3], [15, 3]]
+[[15, 3], [15, 4], [15, 5], [15, 6], [15, 7], [15, 8], [15, 9], [15, 10], [15, 11], [14, 11], [13, 11]]
+[[13, 11], [13, 10], [13, 9]]
+[[13, 11], [13, 12], [13, 13], [12, 13], [11, 13], [11, 14], [11, 15], [11, 16], [11, 17], [12, 17], [13, 17], [13, 18], [13, 19]]
+[[13, 19], [13, 20], [13, 21], [13, 22], [13, 23], [13, 24], [13, 25], [12, 25], [11, 25], [10, 25], [9, 25], [9, 24], [9, 23], [9, 22], [9, 21]]
+[[9, 21], [8, 21], [7, 21]]
+[[7, 21], [6, 21], [5, 21], [5, 22], [5, 23], [4, 23], [3, 23]]
+[[7, 21], [7, 20], [7, 19], [7, 18], [7, 17], [8, 17], [9, 17]]
+[[9, 17], [9, 16], [9, 15]]
+[[3, 23], [3, 24], [3, 25], [4, 25], [5, 25], [5, 26], [5, 27], [6, 27], [7, 27]]
+[[7, 27], [7, 28], [7, 29], [8, 29], [9, 29], [9, 30], [9, 31]]
+[[9, 31], [8, 31], [7, 31], [6, 31], [5, 31], [5, 30], [5, 29], [4, 29], [3, 29]]
+[[3, 29], [2, 29], [1, 29], [1, 28], [1, 27]]
+[[3, 29], [3, 30], [3, 31], [2, 31], [1, 31], [1, 32], [1, 33], [2, 33], [3, 33], [3, 34], [3, 35]]
+[[3, 35], [3, 36], [3, 37], [4, 37], [5, 37]]
+[[5, 37], [5, 38], [5, 39]]
+[[5, 37], [5, 36], [5, 35], [6, 35], [7, 35], [7, 34], [7, 33]]
+[[7, 33], [8, 33], [9, 33], [9, 34], [9, 35], [10, 35], [11, 35]]
+[[11, 35], [11, 36], [11, 37]]
+[[11, 37], [12, 37], [13, 37]]
+[[13, 37], [13, 38], [13, 39]]
+[[13, 37], [14, 37], [15, 37], [15, 36], [15, 35], [15, 34], [15, 33]]
+[[15, 33], [16, 33], [17, 33], [18, 33], [19, 33], [20, 33], [21, 33]]
+[[21, 33], [22, 33], [23, 33]]
+[[21, 33], [21, 34], [21, 35], [20, 35], [19, 35], [19, 36], [19, 37]]
+[[19, 37], [20, 37], [21, 37], [21, 38], [21, 39], [22, 39], [23, 39], [23, 38], [23, 37], [24, 37], [25, 37]]
+[[25, 37], [26, 37], [27, 37], [27, 38], [27, 39], [28, 39], [29, 39], [30, 39], [31, 39], [32, 39], [33, 39], [34, 39], [35, 39], [35, 38], [35, 37], [36, 37], [37, 37]]
+[[37, 37], [38, 37], [39, 37]]
+[[39, 37], [39, 36], [39, 35]]
+[[39, 35], [38, 35], [37, 35], [36, 35], [35, 35], [35, 34], [35, 33], [35, 32], [35, 31]]
+[[35, 31], [36, 31], [37, 31]]
+[[37, 31], [37, 30], [37, 29], [36, 29], [35, 29], [35, 28], [35, 27], [34, 27], [33, 27]]
+[[35, 31], [34, 31], [33, 31], [32, 31], [31, 31], [31, 30], [31, 29], [30, 29], [29, 29], [29, 30], [29, 31], [29, 32], [29, 33]]
+[[29, 33], [28, 33], [27, 33]]
+[[33, 27], [32, 27], [31, 27], [31, 26], [31, 25], [30, 25], [29, 25]]
+[[29, 25], [29, 24], [29, 23], [28, 23], [27, 23]]
+[[27, 23], [26, 23], [25, 23], [24, 23], [23, 23], [23, 22], [23, 21], [23, 20], [23, 19], [23, 18], [23, 17], [23, 16], [23, 15], [24, 15], [25, 15], [26, 15], [27, 15], [28, 15], [29, 15], [29, 16], [29, 17]]
+[[29, 17], [29, 18], [29, 19], [28, 19], [27, 19], [27, 20], [27, 21]]
+[[29, 17], [30, 17], [31, 17], [32, 17], [33, 17], [33, 16], [33, 15]]
+[[33, 15], [33, 14], [33, 13]]
+[[33, 13], [34, 13], [35, 13]]
+[[35, 13], [35, 12], [35, 11], [34, 11], [33, 11], [33, 10], [33, 9], [32, 9], [31, 9]]
+[[31, 9], [30, 9], [29, 9]]
+[[29, 9], [29, 8], [29, 7], [29, 6], [29, 5]]
+[[29, 5], [29, 4], [29, 3]]
+[[29, 3], [30, 3], [31, 3]]
+[[31, 3], [32, 3], [33, 3]]
+[[29, 9], [29, 10], [29, 11], [28, 11], [27, 11], [26, 11], [25, 11], [25, 12], [25, 13]]
+[[33, 3], [34, 3], [35, 3]]
+[[35, 3], [36, 3], [37, 3], [38, 3], [39, 3]]
+[[25, 13], [24, 13], [23, 13], [23, 12], [23, 11], [22, 11], [21, 11], [21, 12], [21, 13]]
+[[29, 3], [28, 3], [27, 3], [27, 4], [27, 5], [26, 5], [25, 5], [25, 4], [25, 3], [24, 3], [23, 3], [23, 2], [23, 1]]
+[[21, 13], [20, 13], [19, 13]]
+[[23, 1], [22, 1], [21, 1]]
+[[39, 3], [39, 4], [39, 5], [38, 5], [37, 5], [37, 6], [37, 7], [37, 8], [37, 9]]
+[[37, 9], [38, 9], [39, 9]]
+[[39, 9], [39, 10], [39, 11]]
+[[21, 1], [21, 2], [21, 3], [21, 4], [21, 5], [22, 5], [23, 5], [23, 6], [23, 7]]
+[[39, 11], [39, 12], [39, 13]]
+[[39, 13], [39, 14], [39, 15]]
+[[23, 7], [24, 7], [25, 7]]
+[[23, 7], [23, 8], [23, 9], [22, 9], [21, 9], [21, 8], [21, 7], [20, 7], [19, 7], [19, 6], [19, 5]]
+[[19, 5], [18, 5], [17, 5]]
+[[39, 15], [39, 16], [39, 17], [38, 17], [37, 17], [36, 17], [35, 17], [35, 18], [35, 19], [34, 19], [33, 19]]
+[[17, 5], [17, 6], [17, 7], [17, 8], [17, 9]]
+[[33, 19], [33, 20], [33, 21], [34, 21], [35, 21], [35, 22], [35, 23]]
+[[17, 9], [17, 10], [17, 11], [17, 12], [17, 13]]
+[[35, 23], [36, 23], [37, 23], [38, 23], [39, 23]]
+[[17, 13], [16, 13], [15, 13], [15, 14], [15, 15]]
+[[39, 23], [39, 22], [39, 21]]
+[[39, 23], [39, 24], [39, 25]]
+[[39, 25], [39, 26], [39, 27]]
+[[39, 27], [39, 28], [39, 29], [39, 30], [39, 31], [40, 31]]
+##############################Search complete##############################
+
+Tracing Back
+
+
+Path no : 0
+Array[0] : [40, 31]	, final_array[-1][-1] : [39, 27]
+Array[0] : [39, 27]	, final_array[-1][-1] : [39, 27]
+############################## Found ##############################
+Array[0] : [39, 25]	, final_array[-1][-1] : [39, 25]
+############################## Found ##############################
+Array[0] : [39, 21]	, final_array[-1][-1] : [39, 23]
+Array[0] : [15, 15]	, final_array[-1][-1] : [39, 23]
+Array[0] : [39, 23]	, final_array[-1][-1] : [39, 23]
+############################## Found ##############################
+Array[0] : [17, 13]	, final_array[-1][-1] : [35, 23]
+Array[0] : [35, 23]	, final_array[-1][-1] : [35, 23]
+############################## Found ##############################
+Array[0] : [17, 9]	, final_array[-1][-1] : [33, 19]
+Array[0] : [33, 19]	, final_array[-1][-1] : [33, 19]
+############################## Found ##############################
+Array[0] : [17, 5]	, final_array[-1][-1] : [39, 15]
+Array[0] : [19, 5]	, final_array[-1][-1] : [39, 15]
+Array[0] : [25, 7]	, final_array[-1][-1] : [39, 15]
+Array[0] : [39, 15]	, final_array[-1][-1] : [39, 15]
+############################## Found ##############################
+Array[0] : [39, 13]	, final_array[-1][-1] : [39, 13]
+############################## Found ##############################
+Array[0] : [23, 7]	, final_array[-1][-1] : [39, 11]
+Array[0] : [39, 11]	, final_array[-1][-1] : [39, 11]
+############################## Found ##############################
+Array[0] : [39, 9]	, final_array[-1][-1] : [39, 9]
+############################## Found ##############################
+Array[0] : [37, 9]	, final_array[-1][-1] : [37, 9]
+############################## Found ##############################
+Array[0] : [21, 1]	, final_array[-1][-1] : [39, 3]
+Array[0] : [19, 13]	, final_array[-1][-1] : [39, 3]
+Array[0] : [23, 1]	, final_array[-1][-1] : [39, 3]
+Array[0] : [21, 13]	, final_array[-1][-1] : [39, 3]
+Array[0] : [39, 3]	, final_array[-1][-1] : [39, 3]
+############################## Found ##############################
+Array[0] : [35, 3]	, final_array[-1][-1] : [35, 3]
+############################## Found ##############################
+Array[0] : [25, 13]	, final_array[-1][-1] : [33, 3]
+Array[0] : [33, 3]	, final_array[-1][-1] : [33, 3]
+############################## Found ##############################
+Array[0] : [31, 3]	, final_array[-1][-1] : [31, 3]
+############################## Found ##############################
+Array[0] : [29, 3]	, final_array[-1][-1] : [29, 3]
+############################## Found ##############################
+Array[0] : [29, 5]	, final_array[-1][-1] : [29, 5]
+############################## Found ##############################
+Array[0] : [29, 9]	, final_array[-1][-1] : [29, 9]
+############################## Found ##############################
+Array[0] : [31, 9]	, final_array[-1][-1] : [31, 9]
+############################## Found ##############################
+Array[0] : [35, 13]	, final_array[-1][-1] : [35, 13]
+############################## Found ##############################
+Array[0] : [33, 13]	, final_array[-1][-1] : [33, 13]
+############################## Found ##############################
+Array[0] : [33, 15]	, final_array[-1][-1] : [33, 15]
+############################## Found ##############################
+Array[0] : [27, 21]	, final_array[-1][-1] : [29, 17]
+Array[0] : [29, 17]	, final_array[-1][-1] : [29, 17]
+############################## Found ##############################
+Array[0] : [27, 23]	, final_array[-1][-1] : [27, 23]
+############################## Found ##############################
+Array[0] : [29, 25]	, final_array[-1][-1] : [29, 25]
+############################## Found ##############################
+Array[0] : [27, 33]	, final_array[-1][-1] : [33, 27]
+Array[0] : [29, 33]	, final_array[-1][-1] : [33, 27]
+Array[0] : [33, 27]	, final_array[-1][-1] : [33, 27]
+############################## Found ##############################
+Array[0] : [37, 31]	, final_array[-1][-1] : [37, 31]
+############################## Found ##############################
+Array[0] : [35, 31]	, final_array[-1][-1] : [35, 31]
+############################## Found ##############################
+Array[0] : [39, 35]	, final_array[-1][-1] : [39, 35]
+############################## Found ##############################
+Array[0] : [39, 37]	, final_array[-1][-1] : [39, 37]
+############################## Found ##############################
+Array[0] : [37, 37]	, final_array[-1][-1] : [37, 37]
+############################## Found ##############################
+Array[0] : [25, 37]	, final_array[-1][-1] : [25, 37]
+############################## Found ##############################
+Array[0] : [19, 37]	, final_array[-1][-1] : [19, 37]
+############################## Found ##############################
+Array[0] : [23, 33]	, final_array[-1][-1] : [21, 33]
+Array[0] : [21, 33]	, final_array[-1][-1] : [21, 33]
+############################## Found ##############################
+Array[0] : [15, 33]	, final_array[-1][-1] : [15, 33]
+############################## Found ##############################
+Array[0] : [13, 39]	, final_array[-1][-1] : [13, 37]
+Array[0] : [13, 37]	, final_array[-1][-1] : [13, 37]
+############################## Found ##############################
+Array[0] : [11, 37]	, final_array[-1][-1] : [11, 37]
+############################## Found ##############################
+Array[0] : [11, 35]	, final_array[-1][-1] : [11, 35]
+############################## Found ##############################
+Array[0] : [7, 33]	, final_array[-1][-1] : [7, 33]
+############################## Found ##############################
+Array[0] : [5, 39]	, final_array[-1][-1] : [5, 37]
+Array[0] : [5, 37]	, final_array[-1][-1] : [5, 37]
+############################## Found ##############################
+Array[0] : [3, 35]	, final_array[-1][-1] : [3, 35]
+############################## Found ##############################
+Array[0] : [1, 27]	, final_array[-1][-1] : [3, 29]
+Array[0] : [3, 29]	, final_array[-1][-1] : [3, 29]
+############################## Found ##############################
+Array[0] : [9, 31]	, final_array[-1][-1] : [9, 31]
+############################## Found ##############################
+Array[0] : [7, 27]	, final_array[-1][-1] : [7, 27]
+############################## Found ##############################
+Array[0] : [9, 15]	, final_array[-1][-1] : [3, 23]
+Array[0] : [9, 17]	, final_array[-1][-1] : [3, 23]
+Array[0] : [3, 23]	, final_array[-1][-1] : [3, 23]
+############################## Found ##############################
+Array[0] : [7, 21]	, final_array[-1][-1] : [7, 21]
+############################## Found ##############################
+Array[0] : [9, 21]	, final_array[-1][-1] : [9, 21]
+############################## Found ##############################
+Array[0] : [13, 19]	, final_array[-1][-1] : [13, 19]
+############################## Found ##############################
+Array[0] : [13, 9]	, final_array[-1][-1] : [13, 11]
+Array[0] : [13, 11]	, final_array[-1][-1] : [13, 11]
+############################## Found ##############################
+Array[0] : [15, 3]	, final_array[-1][-1] : [15, 3]
+############################## Found ##############################
+Array[0] : [5, 5]	, final_array[-1][-1] : [11, 1]
+Array[0] : [11, 1]	, final_array[-1][-1] : [11, 1]
+############################## Found ##############################
+Array[0] : [9, 1]	, final_array[-1][-1] : [9, 1]
+############################## Found ##############################
+Array[0] : [3, 17]	, final_array[-1][-1] : [9, 7]
+Array[0] : [1, 19]	, final_array[-1][-1] : [9, 7]
+Array[0] : [9, 7]	, final_array[-1][-1] : [9, 7]
+############################## Found ##############################
+Array[0] : [1, 13]	, final_array[-1][-1] : [3, 9]
+Array[0] : [3, 9]	, final_array[-1][-1] : [3, 9]
+############################## Found ##############################
+Array[0] : [1, 9]	, final_array[-1][-1] : [1, 9]
+############################## Found ##############################
+Final path
+0 : [39, 27]
+1 : [39, 28]
+2 : [39, 29]
+3 : [39, 30]
+4 : [39, 31]
+5 : [40, 31]
+6 : [39, 25]
+7 : [39, 26]
+8 : [39, 27]
+9 : [39, 23]
+10 : [39, 24]
+11 : [39, 25]
+12 : [35, 23]
+13 : [36, 23]
+14 : [37, 23]
+15 : [38, 23]
+16 : [39, 23]
+17 : [33, 19]
+18 : [33, 20]
+19 : [33, 21]
+20 : [34, 21]
+21 : [35, 21]
+22 : [35, 22]
+23 : [35, 23]
+24 : [39, 15]
+25 : [39, 16]
+26 : [39, 17]
+27 : [38, 17]
+28 : [37, 17]
+29 : [36, 17]
+30 : [35, 17]
+31 : [35, 18]
+32 : [35, 19]
+33 : [34, 19]
+34 : [33, 19]
+35 : [39, 13]
+36 : [39, 14]
+37 : [39, 15]
+38 : [39, 11]
+39 : [39, 12]
+40 : [39, 13]
+41 : [39, 9]
+42 : [39, 10]
+43 : [39, 11]
+44 : [37, 9]
+45 : [38, 9]
+46 : [39, 9]
+47 : [39, 3]
+48 : [39, 4]
+49 : [39, 5]
+50 : [38, 5]
+51 : [37, 5]
+52 : [37, 6]
+53 : [37, 7]
+54 : [37, 8]
+55 : [37, 9]
+56 : [35, 3]
+57 : [36, 3]
+58 : [37, 3]
+59 : [38, 3]
+60 : [39, 3]
+61 : [33, 3]
+62 : [34, 3]
+63 : [35, 3]
+64 : [31, 3]
+65 : [32, 3]
+66 : [33, 3]
+67 : [29, 3]
+68 : [30, 3]
+69 : [31, 3]
+70 : [29, 5]
+71 : [29, 4]
+72 : [29, 3]
+73 : [29, 9]
+74 : [29, 8]
+75 : [29, 7]
+76 : [29, 6]
+77 : [29, 5]
+78 : [31, 9]
+79 : [30, 9]
+80 : [29, 9]
+81 : [35, 13]
+82 : [35, 12]
+83 : [35, 11]
+84 : [34, 11]
+85 : [33, 11]
+86 : [33, 10]
+87 : [33, 9]
+88 : [32, 9]
+89 : [31, 9]
+90 : [33, 13]
+91 : [34, 13]
+92 : [35, 13]
+93 : [33, 15]
+94 : [33, 14]
+95 : [33, 13]
+96 : [29, 17]
+97 : [30, 17]
+98 : [31, 17]
+99 : [32, 17]
+100 : [33, 17]
+101 : [33, 16]
+102 : [33, 15]
+103 : [27, 23]
+104 : [26, 23]
+105 : [25, 23]
+106 : [24, 23]
+107 : [23, 23]
+108 : [23, 22]
+109 : [23, 21]
+110 : [23, 20]
+111 : [23, 19]
+112 : [23, 18]
+113 : [23, 17]
+114 : [23, 16]
+115 : [23, 15]
+116 : [24, 15]
+117 : [25, 15]
+118 : [26, 15]
+119 : [27, 15]
+120 : [28, 15]
+121 : [29, 15]
+122 : [29, 16]
+123 : [29, 17]
+124 : [29, 25]
+125 : [29, 24]
+126 : [29, 23]
+127 : [28, 23]
+128 : [27, 23]
+129 : [33, 27]
+130 : [32, 27]
+131 : [31, 27]
+132 : [31, 26]
+133 : [31, 25]
+134 : [30, 25]
+135 : [29, 25]
+136 : [37, 31]
+137 : [37, 30]
+138 : [37, 29]
+139 : [36, 29]
+140 : [35, 29]
+141 : [35, 28]
+142 : [35, 27]
+143 : [34, 27]
+144 : [33, 27]
+145 : [35, 31]
+146 : [36, 31]
+147 : [37, 31]
+148 : [39, 35]
+149 : [38, 35]
+150 : [37, 35]
+151 : [36, 35]
+152 : [35, 35]
+153 : [35, 34]
+154 : [35, 33]
+155 : [35, 32]
+156 : [35, 31]
+157 : [39, 37]
+158 : [39, 36]
+159 : [39, 35]
+160 : [37, 37]
+161 : [38, 37]
+162 : [39, 37]
+163 : [25, 37]
+164 : [26, 37]
+165 : [27, 37]
+166 : [27, 38]
+167 : [27, 39]
+168 : [28, 39]
+169 : [29, 39]
+170 : [30, 39]
+171 : [31, 39]
+172 : [32, 39]
+173 : [33, 39]
+174 : [34, 39]
+175 : [35, 39]
+176 : [35, 38]
+177 : [35, 37]
+178 : [36, 37]
+179 : [37, 37]
+180 : [19, 37]
+181 : [20, 37]
+182 : [21, 37]
+183 : [21, 38]
+184 : [21, 39]
+185 : [22, 39]
+186 : [23, 39]
+187 : [23, 38]
+188 : [23, 37]
+189 : [24, 37]
+190 : [25, 37]
+191 : [21, 33]
+192 : [21, 34]
+193 : [21, 35]
+194 : [20, 35]
+195 : [19, 35]
+196 : [19, 36]
+197 : [19, 37]
+198 : [15, 33]
+199 : [16, 33]
+200 : [17, 33]
+201 : [18, 33]
+202 : [19, 33]
+203 : [20, 33]
+204 : [21, 33]
+205 : [13, 37]
+206 : [14, 37]
+207 : [15, 37]
+208 : [15, 36]
+209 : [15, 35]
+210 : [15, 34]
+211 : [15, 33]
+212 : [11, 37]
+213 : [12, 37]
+214 : [13, 37]
+215 : [11, 35]
+216 : [11, 36]
+217 : [11, 37]
+218 : [7, 33]
+219 : [8, 33]
+220 : [9, 33]
+221 : [9, 34]
+222 : [9, 35]
+223 : [10, 35]
+224 : [11, 35]
+225 : [5, 37]
+226 : [5, 36]
+227 : [5, 35]
+228 : [6, 35]
+229 : [7, 35]
+230 : [7, 34]
+231 : [7, 33]
+232 : [3, 35]
+233 : [3, 36]
+234 : [3, 37]
+235 : [4, 37]
+236 : [5, 37]
+237 : [3, 29]
+238 : [3, 30]
+239 : [3, 31]
+240 : [2, 31]
+241 : [1, 31]
+242 : [1, 32]
+243 : [1, 33]
+244 : [2, 33]
+245 : [3, 33]
+246 : [3, 34]
+247 : [3, 35]
+248 : [9, 31]
+249 : [8, 31]
+250 : [7, 31]
+251 : [6, 31]
+252 : [5, 31]
+253 : [5, 30]
+254 : [5, 29]
+255 : [4, 29]
+256 : [3, 29]
+257 : [7, 27]
+258 : [7, 28]
+259 : [7, 29]
+260 : [8, 29]
+261 : [9, 29]
+262 : [9, 30]
+263 : [9, 31]
+264 : [3, 23]
+265 : [3, 24]
+266 : [3, 25]
+267 : [4, 25]
+268 : [5, 25]
+269 : [5, 26]
+270 : [5, 27]
+271 : [6, 27]
+272 : [7, 27]
+273 : [7, 21]
+274 : [6, 21]
+275 : [5, 21]
+276 : [5, 22]
+277 : [5, 23]
+278 : [4, 23]
+279 : [3, 23]
+280 : [9, 21]
+281 : [8, 21]
+282 : [7, 21]
+283 : [13, 19]
+284 : [13, 20]
+285 : [13, 21]
+286 : [13, 22]
+287 : [13, 23]
+288 : [13, 24]
+289 : [13, 25]
+290 : [12, 25]
+291 : [11, 25]
+292 : [10, 25]
+293 : [9, 25]
+294 : [9, 24]
+295 : [9, 23]
+296 : [9, 22]
+297 : [9, 21]
+298 : [13, 11]
+299 : [13, 12]
+300 : [13, 13]
+301 : [12, 13]
+302 : [11, 13]
+303 : [11, 14]
+304 : [11, 15]
+305 : [11, 16]
+306 : [11, 17]
+307 : [12, 17]
+308 : [13, 17]
+309 : [13, 18]
+310 : [13, 19]
+311 : [15, 3]
+312 : [15, 4]
+313 : [15, 5]
+314 : [15, 6]
+315 : [15, 7]
+316 : [15, 8]
+317 : [15, 9]
+318 : [15, 10]
+319 : [15, 11]
+320 : [14, 11]
+321 : [13, 11]
+322 : [11, 1]
+323 : [11, 2]
+324 : [11, 3]
+325 : [11, 4]
+326 : [11, 5]
+327 : [12, 5]
+328 : [13, 5]
+329 : [13, 4]
+330 : [13, 3]
+331 : [14, 3]
+332 : [15, 3]
+333 : [9, 1]
+334 : [10, 1]
+335 : [11, 1]
+336 : [9, 7]
+337 : [9, 6]
+338 : [9, 5]
+339 : [9, 4]
+340 : [9, 3]
+341 : [9, 2]
+342 : [9, 1]
+343 : [3, 9]
+344 : [4, 9]
+345 : [5, 9]
+346 : [6, 9]
+347 : [7, 9]
+348 : [8, 9]
+349 : [9, 9]
+350 : [9, 8]
+351 : [9, 7]
+352 : [1, 9]
+353 : [2, 9]
+354 : [3, 9]
+355 : [0, 3]
+356 : [1, 3]
+357 : [1, 4]
+358 : [1, 5]
+359 : [1, 6]
+360 : [1, 7]
+361 : [1, 8]
+362 : [1, 9]
+Image ready
